@@ -4680,3 +4680,31 @@ Make sure 'PlasmaGun' has been compiled for  Get PistoljGun
 [2018.08.09-17.49.03:582][903]SourceControl:  rewrite Content/Igra/Widgets/Objectives.uasset (87%)
 [2018.08.09-17.49.03:582][903]SourceControl:  rewrite Content/Igra/Widgets/PauseMenu/PauseMenu.uasset (81%)
 [2018.08.09-17.49.03:586][903]SourceControl: Commited [master f81fb84] d.
+[2018.08.09-17.49.45:525][165]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Mapa1" FILE="../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Maps/Mapa1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.08.09-17.49.45:714][165]LogSavePackage: Moving '../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Saved/Mapa12462341F498233B7C886AA8A0BD4DA1F.tmp' to '../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Maps/Mapa1.umap'
+[2018.08.09-17.50.18:055][618]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.09-17.50.25:686][494]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Igra/Widgets/GlobalInteractE.GlobalInteractE
+[2018.08.09-17.50.40:706][242]BlueprintLog: New page: Compile GlobalInteractE
+[2018.08.09-17.51.12:502][721]BlueprintLog: New page: Compile GlobalInteractE
+[2018.08.09-17.51.22:751][801]BlueprintLog: New page: Compile GlobalInteractE
+[2018.08.09-17.51.26:125][974]BlueprintLog: New page: Compile GlobalInteractE
+[2018.08.09-17.51.26:847][999]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Igra/Widgets/GlobalInteractE" FILE="../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Widgets/GlobalInteractE.uasset" SILENT=true
+[2018.08.09-17.51.26:852][999]LogSavePackage: Moving '../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Saved/GlobalInteractEE888197942409DD4AA8C09AC81E85077.tmp' to '../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Widgets/GlobalInteractE.uasset'
+[2018.08.09-17.51.27:418][ 24]LogSlate: Window 'GlobalInteractE' being destroyed
+[2018.08.09-17.51.27:423][ 24]LogSlate: Window 'GlobalInteractE' being destroyed
+[2018.08.09-17.51.29:651][241]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.09-17.51.29:687][241]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.09-17.51.29:690][241]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Mapa1" FILE="../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Maps/Mapa1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.08.09-17.51.29:883][241]LogSavePackage: Moving '../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Saved/Mapa1E55D46C84F26A67EE55DEA9113D30918.tmp' to '../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Maps/Mapa1.umap'
+[2018.08.09-17.51.32:909][566]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.09-17.51.33:725][621]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content' is outside repository
+[2018.08.09-17.51.33:802][621]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.09-17.51.35:269][621]LogSlate: Window 'Submit Files' being destroyed
+[2018.08.09-17.51.35:273][621]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.09-17.51.35:329][621]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.09-17.51.35:671][621]LogSourceControl: commit successful: [master 5c3e4a1] d
+[2018.08.09-17.51.35:712][621]SourceControl: [master 5c3e4a1] d
+[2018.08.09-17.51.35:712][621]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
+[2018.08.09-17.51.35:712][621]SourceControl:  create mode 100644 Content/Igra/Widgets/GlobalInteractE.uasset
+[2018.08.09-17.51.35:716][621]SourceControl: Commited [master 5c3e4a1] d.
+[2018.08.09-17.51.36:303][666]LogSlate: FSceneViewport::OnFocusLost() reason 0
