@@ -463,3 +463,17 @@ Make sure 'Hero_C' has been compiled for  Load Player Stats
 [2018.08.09-15.11.57:410][882]LogSlate: Window 'Save Content' being destroyed
 [2018.08.09-15.11.57:460][882]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Igra/Oruzje/NewBlueprint" FILE="../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Oruzje/NewBlueprint.uasset" SILENT=true
 [2018.08.09-15.11.57:468][882]LogSavePackage: Moving '../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Saved/NewBlueprint024BE9D544AF03D995CEEFBF4245CAE3.tmp' to '../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Oruzje/NewBlueprint.uasset'
+[2018.08.09-15.13.02:352][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Mapa1" FILE="../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Maps/Mapa1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.08.09-15.13.02:482][336]LogSavePackage: Moving '../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Saved/Mapa17B28FA534215AAB7AE8909A61B8A4991.tmp' to '../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Maps/Mapa1.umap'
+[2018.08.09-15.13.03:304][360]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Igra/Oruzje/NewBlueprint.NewBlueprint
+[2018.08.09-15.13.03:777][360]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2018.08.09-15.13.04:691][360]LogRenderer: Reallocating scene render targets to support 1208x692 Format 10 NumSamples 1 (Frame:1).
+[2018.08.09-15.13.05:458][423]LogSlate: Window 'NewBlueprint' being destroyed
+[2018.08.09-15.13.05:460][423]LogSlate: Window 'NewBlueprint' being destroyed
+[2018.08.09-15.13.08:003][662]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content' is outside repository
+[2018.08.09-15.13.12:900][662]LogSlate: Window 'Submit Files' being destroyed
+[2018.08.09-15.13.13:222][662]LogSourceControl: commit successful: [master 0b4c7c2] w
+[2018.08.09-15.13.13:252][662]SourceControl: [master 0b4c7c2] w
+[2018.08.09-15.13.13:252][662]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2018.08.09-15.13.13:252][662]SourceControl:  rewrite Content/Maps/Mapa1.umap (64%)
+[2018.08.09-15.13.13:255][662]SourceControl: Commited [master 0b4c7c2] w.
