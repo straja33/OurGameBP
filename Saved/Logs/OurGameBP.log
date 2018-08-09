@@ -7480,3 +7480,9 @@ Script call stack:
 [2018.08.09-18.32.45:602][545]LogSlate: FSceneViewport::OnFocusLost() reason 2
 [2018.08.09-18.32.45:645][545]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Mapa1" FILE="../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Maps/Mapa1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
 [2018.08.09-18.32.45:855][545]LogSavePackage: Moving '../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Saved/Mapa12F390F17425AE611A9E2478EF0EEED45.tmp' to '../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Maps/Mapa1.umap'
+[2018.08.09-18.33.13:518][874]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.09-18.33.16:361][ 68]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content' is outside repository
+[2018.08.09-18.33.19:877][ 68]LogSlate: Window 'Submit Files' being destroyed
+[2018.08.09-18.33.19:969][ 68]SourceControl: Error: fatal: cannot do a partial commit during a merge.
+[2018.08.09-18.33.23:572][212]LogSlate: Window 'DoorBasic' being destroyed
+[2018.08.09-18.33.23:590][212]LogSlate: Window 'DoorBasic' being destroyed
