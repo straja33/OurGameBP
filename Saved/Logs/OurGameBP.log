@@ -477,3 +477,5 @@ Make sure 'Hero_C' has been compiled for  Load Player Stats
 [2018.08.09-15.13.13:252][662]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
 [2018.08.09-15.13.13:252][662]SourceControl:  rewrite Content/Maps/Mapa1.umap (64%)
 [2018.08.09-15.13.13:255][662]SourceControl: Commited [master 0b4c7c2] w.
+[2018.08.09-15.13.31:605][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Mapa1" FILE="../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Maps/Mapa1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.08.09-15.13.31:783][864]LogSavePackage: Moving '../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Saved/Mapa18BC9AFF748085AB4BF7E8D8AF56CD83E.tmp' to '../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Maps/Mapa1.umap'
