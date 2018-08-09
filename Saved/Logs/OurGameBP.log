@@ -4429,3 +4429,254 @@ Script call stack:
 [2018.08.09-17.45.06:430][360]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
 [2018.08.09-17.45.06:461][362]LogPlayLevel: Display: Destroying online subsystem :Context_20
 [2018.08.09-17.45.06:987][422]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.09-17.45.32:581][332]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Igra/Widgets/DeathMenu/GameOver.GameOver
+[2018.08.09-17.45.38:435][725]BlueprintLog: New page: Compile GameOver
+[2018.08.09-17.45.41:510][ 24]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Igra/Widgets/DeathMenu/GameOver" FILE="../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Widgets/DeathMenu/GameOver.uasset" SILENT=true
+[2018.08.09-17.45.41:579][ 24]LogSavePackage: Moving '../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Saved/GameOver93FE4B8642C69E967024449A704E7D04.tmp' to '../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Widgets/DeathMenu/GameOver.uasset'
+[2018.08.09-17.45.43:935][254]BlueprintLog: New page: Compile GameOver
+[2018.08.09-17.45.44:614][309]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Igra/Widgets/DeathMenu/GameOver" FILE="../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Widgets/DeathMenu/GameOver.uasset" SILENT=true
+[2018.08.09-17.45.44:680][309]LogSavePackage: Moving '../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Saved/GameOver206CAAC64239170B6244EAB002806490.tmp' to '../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Widgets/DeathMenu/GameOver.uasset'
+[2018.08.09-17.46.09:806][406]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content' is outside repository
+[2018.08.09-17.46.09:879][406]EditorErrors: Warning: No assets to check in!
+[2018.08.09-17.46.13:633][628]LogSlate: Window 'Message Log' being destroyed
+[2018.08.09-17.46.13:651][628]LogSlate: Window 'Message Log' being destroyed
+[2018.08.09-17.46.20:750][866]LogSlate: Window 'Delete Assets' being destroyed
+[2018.08.09-17.46.20:752][866]LogSlate: Window 'Weapon_HeatWidget' being destroyed
+[2018.08.09-17.46.22:045][866]SourceControl: rm 'Content/Igra/Widgets/Crosshair/Crosshair.uasset'
+[2018.08.09-17.46.24:463][ 27]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Igra/Widgets/PauseMenu/PauseMenu.PauseMenu
+[2018.08.09-17.46.29:364][369]BlueprintLog: New page: Compile PauseMenu
+[2018.08.09-17.46.30:292][455]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Igra/Widgets/PauseMenu/PauseMenu" FILE="../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Widgets/PauseMenu/PauseMenu.uasset" SILENT=true
+[2018.08.09-17.46.30:321][455]LogSavePackage: Moving '../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Saved/PauseMenuCA12842C4A544F9F6DA1C0B2782FCD6F.tmp' to '../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Widgets/PauseMenu/PauseMenu.uasset'
+[2018.08.09-17.46.30:655][494]LogSlate: Window 'PauseMenu' being destroyed
+[2018.08.09-17.46.30:660][494]LogSlate: Window 'PauseMenu' being destroyed
+[2018.08.09-17.46.33:420][647]LogSlate: Window 'Save Content' being destroyed
+[2018.08.09-17.46.33:482][647]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Igra/Hero/Hero" FILE="../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Hero/Hero.uasset" SILENT=true
+[2018.08.09-17.46.33:728][647]LogSavePackage: Moving '../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Saved/Hero28784F864C79AD2FB6347688308682C1.tmp' to '../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Hero/Hero.uasset'
+[2018.08.09-17.46.39:113][ 14]LogSlate: Window 'Delete Assets' being destroyed
+[2018.08.09-17.46.39:717][ 14]SourceControl: rm 'Content/Igra/Widgets/HealthBar/HealthBar.uasset'
+[2018.08.09-17.46.41:812][139]LogSlate: Window 'Save Content' being destroyed
+[2018.08.09-17.46.41:859][139]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Igra/Hero/Hero" FILE="../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Hero/Hero.uasset" SILENT=true
+[2018.08.09-17.46.42:096][139]LogSavePackage: Moving '../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Saved/Hero773D943A4F76C6C6F098E5B00F76491B.tmp' to '../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Hero/Hero.uasset'
+[2018.08.09-17.46.42:588][175]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Mapa1" FILE="../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Maps/Mapa1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.08.09-17.46.42:781][175]LogSavePackage: Moving '../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Saved/Mapa1336B741142922E109C37A58FC5416D82.tmp' to '../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Maps/Mapa1.umap'
+[2018.08.09-17.46.50:943][401]LogSlate: Window 'Delete Assets' being destroyed
+[2018.08.09-17.46.51:705][401]SourceControl: rm 'Content/Igra/Hero/Hero.uasset'
+[2018.08.09-17.46.55:305][653]LogLinker: Warning: Can't find file '/Game/Igra/Hero/Hero'
+[2018.08.09-17.46.55:305][653]LogLinker: Warning: Can't find file for asset '/Game/Igra/Hero/Hero' while loading ../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Oruzje/PlasmaGun.uasset.
+[2018.08.09-17.46.55:305][653]LoadErrors: Error: /Game/Igra/Oruzje/PlasmaGun : Can't find file for asset. /Game/Igra/Hero/Hero
+[2018.08.09-17.46.55:305][653]LogLinker: Warning: Can't find file '/Game/Igra/Hero/Hero'
+[2018.08.09-17.46.55:305][653]LogLinker: Warning: Can't find file for asset '/Game/Igra/Hero/Hero' while loading ../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Oruzje/PlasmaGun.uasset.
+[2018.08.09-17.46.55:307][653]LogLinker: Warning: Can't find file '/Script/OurGame'
+[2018.08.09-17.46.55:307][653]LogLinker: Warning: Can't find file for asset '/Script/OurGame' while loading ../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Oruzje/PlasmaGun.uasset.
+[2018.08.09-17.46.55:307][653]LoadErrors: Error: /Game/Igra/Oruzje/PlasmaGun : Can't find file for asset. /Script/OurGame
+[2018.08.09-17.46.55:307][653]LogLinker: Warning: Can't find file '/Game/Igra/Hero/Hero'
+[2018.08.09-17.46.55:307][653]LogLinker: Warning: Can't find file for asset '/Game/Igra/Hero/Hero' while loading ../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Oruzje/PlasmaGun.uasset.
+[2018.08.09-17.46.55:308][653]LogLinker: Warning: Can't find file '/Game/Igra/Hero/Hero'
+[2018.08.09-17.46.55:308][653]LogLinker: Warning: Can't find file for asset '/Game/Igra/Hero/Hero' while loading ../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Oruzje/PlasmaGun.uasset.
+[2018.08.09-17.46.55:308][653]LogLinker: Warning: Can't find file '/Game/Igra/Hero/Hero'
+[2018.08.09-17.46.55:308][653]LogLinker: Warning: Can't find file for asset '/Game/Igra/Hero/Hero' while loading ../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Oruzje/PlasmaGun.uasset.
+[2018.08.09-17.46.55:347][653]LogLinker: Warning: Can't find file '/Game/Igra/Hero/Hero'
+[2018.08.09-17.46.55:347][653]LogLinker: Warning: Can't find file for asset '/Game/Igra/Hero/Hero' while loading ../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Oruzje/PlasmaGun.uasset.
+[2018.08.09-17.46.55:347][653]LogLinker: Warning: Can't find file '/Game/Igra/Hero/Hero'
+[2018.08.09-17.46.55:347][653]LogLinker: Warning: Can't find file for asset '/Game/Igra/Hero/Hero' while loading ../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Oruzje/PlasmaGun.uasset.
+[2018.08.09-17.46.55:348][653]LogLinker: Warning: Can't find file '/Game/Igra/Hero/Hero'
+[2018.08.09-17.46.55:348][653]LogLinker: Warning: Can't find file for asset '/Game/Igra/Hero/Hero' while loading ../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Oruzje/PlasmaGun.uasset.
+[2018.08.09-17.46.55:348][653]LogLinker: Warning: Can't find file '/Game/Igra/Hero/Hero'
+[2018.08.09-17.46.55:348][653]LogLinker: Warning: Can't find file for asset '/Game/Igra/Hero/Hero' while loading ../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Oruzje/PlasmaGun.uasset.
+[2018.08.09-17.46.55:348][653]LogLinker: Warning: Can't find file '/Game/Igra/Hero/Hero'
+[2018.08.09-17.46.55:348][653]LogLinker: Warning: Can't find file for asset '/Game/Igra/Hero/Hero' while loading ../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Oruzje/PlasmaGun.uasset.
+[2018.08.09-17.46.55:355][653]LogLinker: Warning: Can't find file '/Game/Igra/Hero/Hero'
+[2018.08.09-17.46.55:355][653]LogLinker: Warning: Can't find file for asset '/Game/Igra/Hero/Hero' while loading ../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Oruzje/PlasmaGun.uasset.
+[2018.08.09-17.46.55:359][653]LogLinker: Warning: Can't find file '/Game/Igra/Widgets/Item_AcquiredBP'
+[2018.08.09-17.46.55:359][653]LogLinker: Warning: Can't find file for asset '/Game/Igra/Widgets/Item_AcquiredBP' while loading ../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Oruzje/PlasmaGun.uasset.
+[2018.08.09-17.46.55:359][653]LoadErrors: Error: /Game/Igra/Oruzje/PlasmaGun : Can't find file for asset. /Game/Igra/Widgets/Item_AcquiredBP
+[2018.08.09-17.46.55:508][653]LogLinker: Warning: Can't find file '/Script/OurGame'
+[2018.08.09-17.46.55:508][653]LogLinker: Warning: Can't find file for asset '/Script/OurGame' while loading ../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Oruzje/PlasmaGun.uasset.
+[2018.08.09-17.46.55:509][653]LogLinker: Warning: Can't find file '/Game/Igra/Hero/Hero'
+[2018.08.09-17.46.55:509][653]LogLinker: Warning: Can't find file for asset '/Game/Igra/Hero/Hero' while loading ../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Oruzje/PlasmaGun.uasset.
+[2018.08.09-17.46.55:509][653]LogLinker: Warning: Can't find file '/Script/OurGame'
+[2018.08.09-17.46.55:510][653]LogLinker: Warning: Can't find file for asset '/Script/OurGame' while loading ../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Oruzje/PlasmaGun.uasset.
+[2018.08.09-17.46.55:510][653]LogLinker: Warning: Can't find file '/Game/Igra/Widgets/Item_AcquiredBP'
+[2018.08.09-17.46.55:510][653]LogLinker: Warning: Can't find file for asset '/Game/Igra/Widgets/Item_AcquiredBP' while loading ../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Oruzje/PlasmaGun.uasset.
+[2018.08.09-17.46.55:511][653]LogLinker: Warning: Can't find file '/Game/Igra/Hero/Hero'
+[2018.08.09-17.46.55:511][653]LogLinker: Warning: Can't find file for asset '/Game/Igra/Hero/Hero' while loading NULL.
+[2018.08.09-17.46.55:511][653]LogLinker: Warning: Can't find file '/Game/Igra/Widgets/Item_AcquiredBP'
+[2018.08.09-17.46.55:511][653]LogLinker: Warning: Can't find file for asset '/Game/Igra/Widgets/Item_AcquiredBP' while loading NULL.
+[2018.08.09-17.46.55:511][653]LogLinker: Warning: Can't find file '/Game/Igra/Hero/Hero'
+[2018.08.09-17.46.55:511][653]LogLinker: Warning: Can't find file for asset '/Game/Igra/Hero/Hero' while loading NULL.
+[2018.08.09-17.46.55:511][653]LogLinker: Warning: Can't find file '/Game/Igra/Hero/Hero'
+[2018.08.09-17.46.55:512][653]LogLinker: Warning: Can't find file for asset '/Game/Igra/Hero/Hero' while loading NULL.
+[2018.08.09-17.46.55:512][653]LogLinker: Warning: Can't find file '/Script/OurGame'
+[2018.08.09-17.46.55:512][653]LogLinker: Warning: Can't find file for asset '/Script/OurGame' while loading NULL.
+[2018.08.09-17.46.55:512][653]LogLinker: Warning: Can't find file '/Game/Igra/Hero/Hero'
+[2018.08.09-17.46.55:512][653]LogLinker: Warning: Can't find file for asset '/Game/Igra/Hero/Hero' while loading NULL.
+[2018.08.09-17.46.55:512][653]LogLinker: Warning: Can't find file '/Game/Igra/Hero/Hero'
+[2018.08.09-17.46.55:512][653]LogLinker: Warning: Can't find file for asset '/Game/Igra/Hero/Hero' while loading NULL.
+[2018.08.09-17.46.55:512][653]LogLinker: Warning: Can't find file '/Game/Igra/Hero/Hero'
+[2018.08.09-17.46.55:512][653]LogLinker: Warning: Can't find file for asset '/Game/Igra/Hero/Hero' while loading NULL.
+[2018.08.09-17.46.55:512][653]LogLinker: Warning: Can't find file '/Game/Igra/Hero/Hero'
+[2018.08.09-17.46.55:512][653]LogLinker: Warning: Can't find file for asset '/Game/Igra/Hero/Hero' while loading NULL.
+[2018.08.09-17.46.55:513][653]LogLinker: Warning: Can't find file '/Game/Igra/Hero/Hero'
+[2018.08.09-17.46.55:513][653]LogLinker: Warning: Can't find file for asset '/Game/Igra/Hero/Hero' while loading NULL.
+[2018.08.09-17.46.55:513][653]LogLinker: Warning: Can't find file '/Game/Igra/Hero/Hero'
+[2018.08.09-17.46.55:513][653]LogLinker: Warning: Can't find file for asset '/Game/Igra/Hero/Hero' while loading NULL.
+[2018.08.09-17.46.55:513][653]LogLinker: Warning: Can't find file '/Game/Igra/Hero/Hero'
+[2018.08.09-17.46.55:513][653]LogLinker: Warning: Can't find file for asset '/Game/Igra/Hero/Hero' while loading NULL.
+[2018.08.09-17.46.55:513][653]LogLinker: Warning: Can't find file '/Game/Igra/Hero/Hero'
+[2018.08.09-17.46.55:513][653]LogLinker: Warning: Can't find file for asset '/Game/Igra/Hero/Hero' while loading NULL.
+[2018.08.09-17.46.55:513][653]LogLinker: Warning: Can't find file '/Game/Igra/Hero/Hero'
+[2018.08.09-17.46.55:513][653]LogLinker: Warning: Can't find file for asset '/Game/Igra/Hero/Hero' while loading NULL.
+[2018.08.09-17.46.55:514][653]LogLinker: Warning: Can't find file '/Game/Igra/Widgets/Item_AcquiredBP'
+[2018.08.09-17.46.55:514][653]LogLinker: Warning: Can't find file for asset '/Game/Igra/Widgets/Item_AcquiredBP' while loading NULL.
+[2018.08.09-17.46.55:514][653]LogLinker: Warning: Can't find file '/Script/OurGame'
+[2018.08.09-17.46.55:514][653]LogLinker: Warning: Can't find file for asset '/Script/OurGame' while loading NULL.
+[2018.08.09-17.46.55:514][653]LogLinker: Warning: Can't find file '/Game/Igra/Hero/Hero'
+[2018.08.09-17.46.55:514][653]LogLinker: Warning: Can't find file for asset '/Game/Igra/Hero/Hero' while loading NULL.
+[2018.08.09-17.46.55:514][653]LogLinker: Warning: Can't find file '/Script/OurGame'
+[2018.08.09-17.46.55:514][653]LogLinker: Warning: Can't find file for asset '/Script/OurGame' while loading NULL.
+[2018.08.09-17.46.55:514][653]LogLinker: Warning: Can't find file '/Game/Igra/Widgets/Item_AcquiredBP'
+[2018.08.09-17.46.55:514][653]LogLinker: Warning: Can't find file for asset '/Game/Igra/Widgets/Item_AcquiredBP' while loading NULL.
+[2018.08.09-17.46.55:517][653]LogLinker: Warning: Can't find file '/Game/Igra/Widgets/Item_AcquiredBP'
+[2018.08.09-17.46.55:517][653]LoadErrors: Failed to load /Game/Igra/Widgets/Item_AcquiredBP.Item_AcquiredBP_C Referenced by K2Node_CreateWidget_0
+[2018.08.09-17.46.55:517][653]LogLinker: Warning: Can't find file for asset '/Game/Igra/Widgets/Item_AcquiredBP' while loading NULL.
+[2018.08.09-17.46.55:517][653]LogLinker: Warning: Can't find file '/Game/Igra/Widgets/Item_AcquiredBP'
+[2018.08.09-17.46.55:517][653]LogLinker: Warning: Can't find file for asset '/Game/Igra/Widgets/Item_AcquiredBP' while loading NULL.
+[2018.08.09-17.46.55:518][653]LogLinker: Warning: Can't find file '/Game/Igra/Hero/Hero'
+[2018.08.09-17.46.55:518][653]LoadErrors: Failed to load /Game/Igra/Hero/Hero.Hero_C Referenced by K2Node_VariableGet_7
+[2018.08.09-17.46.55:518][653]LogLinker: Warning: Can't find file for asset '/Game/Igra/Hero/Hero' while loading NULL.
+[2018.08.09-17.46.55:518][653]LogLinker: Warning: Can't find file '/Game/Igra/Hero/Hero'
+[2018.08.09-17.46.55:518][653]LogLinker: Warning: Can't find file for asset '/Game/Igra/Hero/Hero' while loading NULL.
+[2018.08.09-17.46.55:518][653]LogLinker: Warning: Can't find file '/Game/Igra/Hero/Hero'
+[2018.08.09-17.46.55:518][653]LoadErrors: Failed to load /Game/Igra/Hero/Hero.Hero_C Referenced by K2Node_VariableGet_8
+[2018.08.09-17.46.55:518][653]LogLinker: Warning: Can't find file for asset '/Game/Igra/Hero/Hero' while loading NULL.
+[2018.08.09-17.46.55:519][653]LogLinker: Warning: Can't find file '/Game/Igra/Hero/Hero'
+[2018.08.09-17.46.55:519][653]LogLinker: Warning: Can't find file for asset '/Game/Igra/Hero/Hero' while loading NULL.
+[2018.08.09-17.46.55:519][653]LogLinker: Warning: Can't find file '/Game/Igra/Hero/Hero'
+[2018.08.09-17.46.55:519][653]LoadErrors: Failed to load /Game/Igra/Hero/Hero.Hero_C Referenced by K2Node_DynamicCast_1
+[2018.08.09-17.46.55:519][653]LogLinker: Warning: Can't find file for asset '/Game/Igra/Hero/Hero' while loading NULL.
+[2018.08.09-17.46.55:519][653]LogLinker: Warning: Can't find file '/Game/Igra/Hero/Hero'
+[2018.08.09-17.46.55:519][653]LogLinker: Warning: Can't find file for asset '/Game/Igra/Hero/Hero' while loading NULL.
+[2018.08.09-17.46.55:519][653]LogLinker: Warning: Can't find file '/Game/Igra/Hero/Hero'
+[2018.08.09-17.46.55:519][653]LoadErrors: Failed to load /Game/Igra/Hero/Hero.Hero_C Referenced by K2Node_VariableSet_12
+[2018.08.09-17.46.55:520][653]LogLinker: Warning: Can't find file for asset '/Game/Igra/Hero/Hero' while loading NULL.
+[2018.08.09-17.46.55:520][653]LogLinker: Warning: Can't find file '/Game/Igra/Hero/Hero'
+[2018.08.09-17.46.55:520][653]LogLinker: Warning: Can't find file for asset '/Game/Igra/Hero/Hero' while loading NULL.
+[2018.08.09-17.46.55:520][653]LogLinker: Warning: Can't find file '/Game/Igra/Hero/Hero'
+[2018.08.09-17.46.55:520][653]LoadErrors: Failed to load /Game/Igra/Hero/Hero.Hero_C Referenced by K2Node_VariableSet_1
+[2018.08.09-17.46.55:520][653]LogLinker: Warning: Can't find file for asset '/Game/Igra/Hero/Hero' while loading NULL.
+[2018.08.09-17.46.55:521][653]LogLinker: Warning: Can't find file '/Game/Igra/Hero/Hero'
+[2018.08.09-17.46.55:521][653]LogLinker: Warning: Can't find file for asset '/Game/Igra/Hero/Hero' while loading NULL.
+[2018.08.09-17.46.55:521][653]LogLinker: Warning: Can't find file '/Game/Igra/Hero/Hero'
+[2018.08.09-17.46.55:521][653]LoadErrors: Failed to load /Game/Igra/Hero/Hero.Hero_C Referenced by K2Node_VariableGet_19
+[2018.08.09-17.46.55:521][653]LogLinker: Warning: Can't find file for asset '/Game/Igra/Hero/Hero' while loading NULL.
+[2018.08.09-17.46.55:521][653]LogLinker: Warning: Can't find file '/Game/Igra/Hero/Hero'
+[2018.08.09-17.46.55:522][653]LogLinker: Warning: Can't find file for asset '/Game/Igra/Hero/Hero' while loading NULL.
+[2018.08.09-17.46.55:522][653]LogLinker: Warning: Can't find file '/Game/Igra/Hero/Hero'
+[2018.08.09-17.46.55:522][653]LoadErrors: Failed to load /Game/Igra/Hero/Hero.Hero_C Referenced by K2Node_VariableSet_0
+[2018.08.09-17.46.55:522][653]LogLinker: Warning: Can't find file for asset '/Game/Igra/Hero/Hero' while loading NULL.
+[2018.08.09-17.46.55:522][653]LogLinker: Warning: Can't find file '/Game/Igra/Hero/Hero'
+[2018.08.09-17.46.55:522][653]LogLinker: Warning: Can't find file for asset '/Game/Igra/Hero/Hero' while loading NULL.
+[2018.08.09-17.46.55:522][653]LogLinker: Warning: Can't find file '/Game/Igra/Hero/Hero'
+[2018.08.09-17.46.55:522][653]LoadErrors: Failed to load /Game/Igra/Hero/Hero.Hero_C Referenced by K2Node_VariableSet_5
+[2018.08.09-17.46.55:523][653]LogLinker: Warning: Can't find file for asset '/Game/Igra/Hero/Hero' while loading NULL.
+[2018.08.09-17.46.55:523][653]LogLinker: Warning: Can't find file '/Game/Igra/Hero/Hero'
+[2018.08.09-17.46.55:523][653]LogLinker: Warning: Can't find file for asset '/Game/Igra/Hero/Hero' while loading NULL.
+[2018.08.09-17.46.55:523][653]LogLinker: Warning: Can't find file '/Game/Igra/Hero/Hero'
+[2018.08.09-17.46.55:523][653]LoadErrors: Failed to load /Game/Igra/Hero/Hero.Hero_C Referenced by K2Node_VariableSet_6
+[2018.08.09-17.46.55:523][653]LogLinker: Warning: Can't find file for asset '/Game/Igra/Hero/Hero' while loading NULL.
+[2018.08.09-17.46.55:524][653]LogLinker: Warning: Can't find file '/Game/Igra/Hero/Hero'
+[2018.08.09-17.46.55:524][653]LogLinker: Warning: Can't find file for asset '/Game/Igra/Hero/Hero' while loading NULL.
+[2018.08.09-17.46.55:524][653]LogLinker: Warning: Can't find file '/Script/OurGame'
+[2018.08.09-17.46.55:524][653]LoadErrors: Failed to load /Script/OurGame.Item_Acquired Referenced by K2Node_VariableSet_2
+[2018.08.09-17.46.55:524][653]LogLinker: Warning: Can't find file for asset '/Script/OurGame' while loading NULL.
+[2018.08.09-17.46.55:524][653]LogLinker: Warning: Can't find file '/Script/OurGame'
+[2018.08.09-17.46.55:524][653]LogLinker: Warning: Can't find file for asset '/Script/OurGame' while loading NULL.
+[2018.08.09-17.46.55:524][653]LogLinker: Warning: Can't find file '/Game/Igra/Hero/Hero'
+[2018.08.09-17.46.55:524][653]LoadErrors: Failed to load /Game/Igra/Hero/Hero.Hero_C Referenced by K2Node_VariableSet_14
+[2018.08.09-17.46.55:524][653]LogLinker: Warning: Can't find file for asset '/Game/Igra/Hero/Hero' while loading NULL.
+[2018.08.09-17.46.55:525][653]LogLinker: Warning: Can't find file '/Game/Igra/Hero/Hero'
+[2018.08.09-17.46.55:525][653]LogLinker: Warning: Can't find file for asset '/Game/Igra/Hero/Hero' while loading NULL.
+[2018.08.09-17.46.55:525][653]LogLinker: Warning: Can't find file '/Game/Igra/Hero/Hero'
+[2018.08.09-17.46.55:525][653]LoadErrors: Failed to load /Game/Igra/Hero/Hero.Hero_C Referenced by K2Node_VariableGet_25
+[2018.08.09-17.46.55:525][653]LogLinker: Warning: Can't find file for asset '/Game/Igra/Hero/Hero' while loading NULL.
+[2018.08.09-17.46.55:525][653]LogLinker: Warning: Can't find file '/Game/Igra/Hero/Hero'
+[2018.08.09-17.46.55:526][653]LogLinker: Warning: Can't find file for asset '/Game/Igra/Hero/Hero' while loading NULL.
+[2018.08.09-17.46.55:531][653]LogBlueprint: Error: [Compiler PlasmaGun] Spawn node  Create Widget  must have a class specified.
+[2018.08.09-17.46.55:531][653]LogBlueprint: Warning: [Compiler PlasmaGun] Could not find a variable named "Muzzle" in 'PlasmaGun'.
+Make sure 'PlasmaGun' has been compiled for  Get Muzzle
+[2018.08.09-17.46.55:531][653]LogBlueprint: Warning: [Compiler PlasmaGun] Could not find a variable named "PlasmaGunAcquired" in 'PlasmaGun'.
+Make sure 'PlasmaGun' has been compiled for  Set PlasmaGunAcquired
+[2018.08.09-17.46.55:531][653]LogBlueprint: Warning: [Compiler PlasmaGun] Could not find a variable named "Item_AcquiredText" in 'PlasmaGun'.
+Make sure 'PlasmaGun' has been compiled for  Set Item_AcquiredText
+[2018.08.09-17.46.55:531][653]LogBlueprint: Warning: [Compiler PlasmaGun] Could not find a variable named "SwitchSystem_Down" in 'PlasmaGun'.
+Make sure 'PlasmaGun' has been compiled for  Set SwitchSystem_Down
+[2018.08.09-17.46.55:531][653]LogBlueprint: Warning: [Compiler PlasmaGun] Could not find a variable named "SwitchSystem_Up" in 'PlasmaGun'.
+Make sure 'PlasmaGun' has been compiled for  Set SwitchSystem_Up
+[2018.08.09-17.46.55:531][653]LogBlueprint: Warning: [Compiler PlasmaGun] Could not find a variable named "Objective_Text" in 'PlasmaGun'.
+Make sure 'PlasmaGun' has been compiled for  Set Objective_Text
+[2018.08.09-17.46.55:531][653]LogBlueprint: Warning: [Compiler PlasmaGun] Could not find a variable named "Uzi_Widget" in 'PlasmaGun'.
+Make sure 'PlasmaGun' has been compiled for  Get Uzi_Widget
+[2018.08.09-17.46.55:531][653]LogBlueprint: Warning: [Compiler PlasmaGun] Could not find a variable named "Weapon_HeatCalculate" in 'PlasmaGun'.
+Make sure 'PlasmaGun' has been compiled for  Set Weapon_HeatCalculate
+[2018.08.09-17.46.55:532][653]LogBlueprint: Warning: [Compiler PlasmaGun] Could not find a variable named "Weapon_Mesh" in 'PlasmaGun'.
+Make sure 'PlasmaGun' has been compiled for  Set Weapon_Mesh
+[2018.08.09-17.46.55:532][653]LogBlueprint: Error: [Compiler PlasmaGun] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2018.08.09-17.46.55:532][653]LogBlueprint: Error: [Compiler PlasmaGun] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2018.08.09-17.46.55:532][653]LogBlueprint: Error: [Compiler PlasmaGun] In use pin  As Hero  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2018.08.09-17.46.55:532][653]LogBlueprint: Warning: [Compiler PlasmaGun] Could not find a variable named "PointGun" in 'PlasmaGun'.
+Make sure 'PlasmaGun' has been compiled for  Get PointGun
+[2018.08.09-17.46.55:532][653]LogBlueprint: Warning: [Compiler PlasmaGun] Could not find a variable named "PistoljGun" in 'PlasmaGun'.
+Make sure 'PlasmaGun' has been compiled for  Get PistoljGun
+[2018.08.09-17.46.55:533][653]LogBlueprint: Error: [Compiler PlasmaGun] The property associated with  Muzzle  could not be found in '/Game/Igra/Oruzje/PlasmaGun.PlasmaGun_C'
+[2018.08.09-17.46.55:533][653]LogBlueprint: Error: [Compiler PlasmaGun] The property associated with  Plasma Gun Acquired  could not be found in '/Game/Igra/Oruzje/PlasmaGun.PlasmaGun_C'
+[2018.08.09-17.46.55:533][653]LogBlueprint: Error: [Compiler PlasmaGun] The property associated with  Switch System Down  could not be found in '/Game/Igra/Oruzje/PlasmaGun.PlasmaGun_C'
+[2018.08.09-17.46.55:533][653]LogBlueprint: Error: [Compiler PlasmaGun] The property associated with  Switch System Up  could not be found in '/Game/Igra/Oruzje/PlasmaGun.PlasmaGun_C'
+[2018.08.09-17.46.55:533][653]LogBlueprint: Error: [Compiler PlasmaGun] The property associated with  Objective Text  could not be found in '/Game/Igra/Oruzje/PlasmaGun.PlasmaGun_C'
+[2018.08.09-17.46.55:533][653]LogBlueprint: Error: [Compiler PlasmaGun] The property associated with  Point Gun  could not be found in '/Game/Igra/Oruzje/PlasmaGun.PlasmaGun_C'
+[2018.08.09-17.46.55:533][653]LogBlueprint: Error: [Compiler PlasmaGun] The property associated with  Pistolj Gun  could not be found in '/Game/Igra/Oruzje/PlasmaGun.PlasmaGun_C'
+[2018.08.09-17.46.55:533][653]LogBlueprint: Error: [Compiler PlasmaGun] The property associated with  Uzi Widget  could not be found in '/Game/Igra/Oruzje/PlasmaGun.PlasmaGun_C'
+[2018.08.09-17.46.55:533][653]LogBlueprint: Error: [Compiler PlasmaGun] The property associated with  Weapon Heat Calculate  could not be found in '/Game/Igra/Oruzje/PlasmaGun.PlasmaGun_C'
+[2018.08.09-17.46.55:533][653]LogBlueprint: Error: [Compiler PlasmaGun] The property associated with  Weapon Mesh  could not be found in '/Game/Igra/Oruzje/PlasmaGun.PlasmaGun_C'
+[2018.08.09-17.46.55:534][653]LogBlueprint: Warning: [Compiler PlasmaGun] [0990.71] Compile of PlasmaGun failed. 14 Fatal Issue(s) 11 Warning(s) [in 7 ms] (/Game/Igra/Oruzje/PlasmaGun.PlasmaGun)
+[2018.08.09-17.46.55:567][653]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Igra/Oruzje/PlasmaGun.PlasmaGun
+[2018.08.09-17.47.08:583][235]BlueprintLog: New page: Compile PlasmaGun
+[2018.08.09-17.47.14:766][689]BlueprintLog: New page: Compile PlasmaGun
+[2018.08.09-17.47.15:513][746]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Igra/Oruzje/PlasmaGun" FILE="../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Oruzje/PlasmaGun.uasset" SILENT=true
+[2018.08.09-17.47.15:537][746]LogSavePackage: Moving '../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Saved/PlasmaGun9E00961047815781E6B96B9AA1AB82B6.tmp' to '../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Oruzje/PlasmaGun.uasset'
+[2018.08.09-17.47.15:819][779]LogSlate: Window 'PlasmaGun' being destroyed
+[2018.08.09-17.47.15:825][779]LogSlate: Window 'PlasmaGun' being destroyed
+[2018.08.09-17.47.18:269][839]LogSlate: Window 'Save Content' being destroyed
+[2018.08.09-17.47.18:342][839]LogSavePackage: Moving '../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Saved/Hero_MacroD47255E84B258EF4AB3B798C46224824.tmp' to '../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Macros/Characters/Hero_Macro.uasset'
+[2018.08.09-17.47.22:105][ 87]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Igra/Macros/Characters/Hero_Macro.Hero_Macro
+[2018.08.09-17.47.33:606][992]LogSavePackage: Moving '../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Saved/Hero_MacroEBECF4134C4490DF5519FFA6BEAC0BAD.tmp' to '../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Macros/Characters/Hero_Macro.uasset'
+[2018.08.09-17.47.35:103][162]LogSavePackage: Moving '../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Saved/Hero_MacroADBD7867436FA3659F351288AEC4B603.tmp' to '../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Macros/Characters/Hero_Macro.uasset'
+[2018.08.09-17.47.38:002][401]LogSlate: Window 'Hero_Macro' being destroyed
+[2018.08.09-17.47.38:008][401]LogSlate: Window 'Hero_Macro' being destroyed
+[2018.08.09-17.48.23:821][839]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Igra/Macros/Characters/Hero_Macro.Hero_Macro
+[2018.08.09-17.48.24:108][839]LogTabManager: Warning: Cannot spawn tab because no spawner is registered for 'CompilerResults'
+[2018.08.09-17.48.26:642][126]LogSlate: Window 'CompilerResults' being destroyed
+[2018.08.09-17.48.26:650][126]LogSlate: Window 'CompilerResults' being destroyed
+[2018.08.09-17.48.30:171][537]LogSlate: Window 'Hero_Macro' being destroyed
+[2018.08.09-17.48.30:177][537]LogSlate: Window 'Hero_Macro' being destroyed
+[2018.08.09-17.48.33:734][940]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/Igra/Widgets/Objectives.Objectives
+[2018.08.09-17.48.49:772][146]BlueprintLog: New page: Compile Objectives
+[2018.08.09-17.48.56:180][552]BlueprintLog: New page: Compile Objectives
+[2018.08.09-17.48.56:814][607]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Igra/Widgets/Objectives" FILE="../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Widgets/Objectives.uasset" SILENT=true
+[2018.08.09-17.48.56:831][607]LogSavePackage: Moving '../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Saved/Objectives8D656B4D44D1E5F635E963BF1F194612.tmp' to '../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Widgets/Objectives.uasset'
+[2018.08.09-17.48.57:213][652]LogSlate: Window 'Objectives' being destroyed
+[2018.08.09-17.48.57:219][652]LogSlate: Window 'Objectives' being destroyed
+[2018.08.09-17.48.59:141][827]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Igra/Widgets/Objectives" FILE="../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Widgets/Objectives.uasset" SILENT=true
+[2018.08.09-17.48.59:157][827]LogSavePackage: Moving '../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Saved/ObjectivesC4122B6B40B623925C30A3AB2830BD2E.tmp' to '../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Widgets/Objectives.uasset'
+[2018.08.09-17.49.00:265][903]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content' is outside repository
+[2018.08.09-17.49.02:198][903]LogSlate: Window 'Submit Files' being destroyed
+[2018.08.09-17.49.03:421][903]LogSourceControl: commit successful: [master f81fb84] d
+[2018.08.09-17.49.03:582][903]SourceControl: [master f81fb84] d
+[2018.08.09-17.49.03:582][903]SourceControl:  8 files changed, 0 insertions(+), 0 deletions(-)
+[2018.08.09-17.49.03:582][903]SourceControl:  delete mode 100644 Content/Igra/Hero/Hero.uasset
+[2018.08.09-17.49.03:582][903]SourceControl:  rewrite Content/Igra/Macros/Characters/Hero_Macro.uasset (88%)
+[2018.08.09-17.49.03:582][903]SourceControl:  rewrite Content/Igra/Oruzje/PlasmaGun.uasset (97%)
+[2018.08.09-17.49.03:582][903]SourceControl:  delete mode 100644 Content/Igra/Widgets/Crosshair/Crosshair.uasset
+[2018.08.09-17.49.03:582][903]SourceControl:  delete mode 100644 Content/Igra/Widgets/HealthBar/HealthBar.uasset
+[2018.08.09-17.49.03:582][903]SourceControl:  rewrite Content/Igra/Widgets/Objectives.uasset (87%)
+[2018.08.09-17.49.03:582][903]SourceControl:  rewrite Content/Igra/Widgets/PauseMenu/PauseMenu.uasset (81%)
+[2018.08.09-17.49.03:586][903]SourceControl: Commited [master f81fb84] d.
