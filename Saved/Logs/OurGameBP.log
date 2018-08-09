@@ -7269,3 +7269,214 @@ Script call stack:
 [2018.08.09-18.11.35:996][839]SourceControl: Commited [master ffbf4ac] d.
 [2018.08.09-18.12.40:665][913]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Mapa1" FILE="../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Maps/Mapa1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
 [2018.08.09-18.12.40:869][913]LogSavePackage: Moving '../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Saved/Mapa1D1212E694C697B20BD6C2B834B265020.tmp' to '../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Maps/Mapa1.umap'
+[2018.08.09-18.16.39:143][173]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.09-18.16.39:221][178]LogTemp: Repeating last play command: Selected Viewport
+[2018.08.09-18.16.39:244][178]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Mapa1.Mapa1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Mapa1.Mapa1:PersistentLevel.Mapa1' with GeneratedClass '/Game/Maps/Mapa1.Mapa1_C' with ClassGeneratedBy '/Game/Maps/Mapa1.Mapa1:PersistentLevel.Mapa1'
+[2018.08.09-18.16.39:244][178]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.08.09-18.16.39:244][178]PIE: New page: PIE session: Mapa1 (Aug 9, 2018, 10:16:39 PM)
+[2018.08.09-18.16.39:244][178]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Mapa1
+[2018.08.09-18.16.39:246][178]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001945s)
+[2018.08.09-18.16.39:247][178]LogAIModule: Creating AISystem for world Mapa1
+[2018.08.09-18.16.39:247][178]LogPlayLevel: PIE: World Init took: (0.000748s)
+[2018.08.09-18.16.39:247][178]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Mapa1.Mapa1 to /Game/Maps/UEDPIE_0_Mapa1.Mapa1 (0.002813s)
+[2018.08.09-18.16.39:280][178]LogInit: XAudio2 using 'Speakers (2- High Definition Audio Device)' : 2 channels at 44.1 kHz using 16 bits per sample (channel mask 0x3)
+[2018.08.09-18.16.39:286][178]LogInit: FAudioDevice initialized.
+[2018.08.09-18.16.39:315][178]LogLoad: Game class is 'OurGameMode_C'
+[2018.08.09-18.16.39:316][178]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Mapa1.Mapa1 up for play (max tick rate 0) at 2018.08.09-20.16.39
+[2018.08.09-18.16.39:317][178]LogWorld: Bringing up level for play took: 0.001133
+[2018.08.09-18.16.39:330][178]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Mapa1 0.492
+[2018.08.09-18.16.39:330][178]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Mapa1.Mapa1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Mapa1.Mapa1:PersistentLevel.Mapa1' with GeneratedClass '/Game/Maps/Mapa1.Mapa1_C' with ClassGeneratedBy '/Game/Maps/Mapa1.Mapa1:PersistentLevel.Mapa1'
+[2018.08.09-18.16.41:403][422]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Igra/Widgets/WeaponHud/Weapon_HeatWidget.Weapon_HeatWidget_C:Weapon_HeatPercentage
+
+[2018.08.09-18.16.41:403][422]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Igra/Widgets/WeaponHud/Weapon_HeatWidget.Weapon_HeatWidget_C:Weapon_HeatPercentage
+
+[2018.08.09-18.16.41:410][423]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Igra/Widgets/WeaponHud/Weapon_HeatWidget.Weapon_HeatWidget_C:Weapon_HeatPercentage
+
+[2018.08.09-18.16.41:418][424]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Igra/Widgets/WeaponHud/Weapon_HeatWidget.Weapon_HeatWidget_C:Weapon_HeatPercentage
+
+[2018.08.09-18.16.41:426][425]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Igra/Widgets/WeaponHud/Weapon_HeatWidget.Weapon_HeatWidget_C:Weapon_HeatPercentage
+
+[2018.08.09-18.16.41:435][426]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Igra/Widgets/WeaponHud/Weapon_HeatWidget.Weapon_HeatWidget_C:Weapon_HeatPercentage
+
+[2018.08.09-18.16.41:443][427]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Igra/Widgets/WeaponHud/Weapon_HeatWidget.Weapon_HeatWidget_C:Weapon_HeatPercentage
+
+[2018.08.09-18.16.41:451][428]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Igra/Widgets/WeaponHud/Weapon_HeatWidget.Weapon_HeatWidget_C:Weapon_HeatPercentage
+
+[2018.08.09-18.16.41:459][429]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Igra/Widgets/WeaponHud/Weapon_HeatWidget.Weapon_HeatWidget_C:Weapon_HeatPercentage
+
+[2018.08.09-18.16.41:468][430]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Igra/Widgets/WeaponHud/Weapon_HeatWidget.Weapon_HeatWidget_C:Weapon_HeatPercentage
+
+[2018.08.09-18.16.41:476][431]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Igra/Widgets/WeaponHud/Weapon_HeatWidget.Weapon_HeatWidget_C:Weapon_HeatPercentage
+
+[2018.08.09-18.16.41:484][432]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Igra/Widgets/WeaponHud/Weapon_HeatWidget.Weapon_HeatWidget_C:Weapon_HeatPercentage
+
+[2018.08.09-18.16.41:493][433]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Igra/Widgets/WeaponHud/Weapon_HeatWidget.Weapon_HeatWidget_C:Weapon_HeatPercentage
+
+[2018.08.09-18.16.41:501][434]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Igra/Widgets/WeaponHud/Weapon_HeatWidget.Weapon_HeatWidget_C:Weapon_HeatPercentage
+
+[2018.08.09-18.16.41:510][435]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Igra/Widgets/WeaponHud/Weapon_HeatWidget.Weapon_HeatWidget_C:Weapon_HeatPercentage
+
+[2018.08.09-18.16.41:518][436]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Igra/Widgets/WeaponHud/Weapon_HeatWidget.Weapon_HeatWidget_C:Weapon_HeatPercentage
+
+[2018.08.09-18.16.41:526][437]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Igra/Widgets/WeaponHud/Weapon_HeatWidget.Weapon_HeatWidget_C:Weapon_HeatPercentage
+
+[2018.08.09-18.16.41:534][438]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Igra/Widgets/WeaponHud/Weapon_HeatWidget.Weapon_HeatWidget_C:Weapon_HeatPercentage
+
+[2018.08.09-18.16.41:543][439]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Igra/Widgets/WeaponHud/Weapon_HeatWidget.Weapon_HeatWidget_C:Weapon_HeatPercentage
+
+[2018.08.09-18.16.41:551][440]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Igra/Widgets/WeaponHud/Weapon_HeatWidget.Weapon_HeatWidget_C:Weapon_HeatPercentage
+
+[2018.08.09-18.16.41:559][441]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Igra/Widgets/WeaponHud/Weapon_HeatWidget.Weapon_HeatWidget_C:Weapon_HeatPercentage
+
+[2018.08.09-18.16.41:568][442]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Igra/Widgets/WeaponHud/Weapon_HeatWidget.Weapon_HeatWidget_C:Weapon_HeatPercentage
+
+[2018.08.09-18.16.41:576][443]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Igra/Widgets/WeaponHud/Weapon_HeatWidget.Weapon_HeatWidget_C:Weapon_HeatPercentage
+
+[2018.08.09-18.16.41:584][444]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Igra/Widgets/WeaponHud/Weapon_HeatWidget.Weapon_HeatWidget_C:Weapon_HeatPercentage
+
+[2018.08.09-18.16.41:593][445]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Igra/Widgets/WeaponHud/Weapon_HeatWidget.Weapon_HeatWidget_C:Weapon_HeatPercentage
+
+[2018.08.09-18.16.41:601][446]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Igra/Widgets/WeaponHud/Weapon_HeatWidget.Weapon_HeatWidget_C:Weapon_HeatPercentage
+
+[2018.08.09-18.16.41:609][447]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Igra/Widgets/WeaponHud/Weapon_HeatWidget.Weapon_HeatWidget_C:Weapon_HeatPercentage
+
+[2018.08.09-18.16.41:618][448]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Igra/Widgets/WeaponHud/Weapon_HeatWidget.Weapon_HeatWidget_C:Weapon_HeatPercentage
+
+[2018.08.09-18.16.41:626][449]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Igra/Widgets/WeaponHud/Weapon_HeatWidget.Weapon_HeatWidget_C:Weapon_HeatPercentage
+
+[2018.08.09-18.16.41:635][450]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Igra/Widgets/WeaponHud/Weapon_HeatWidget.Weapon_HeatWidget_C:Weapon_HeatPercentage
+
+[2018.08.09-18.16.41:643][451]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Igra/Widgets/WeaponHud/Weapon_HeatWidget.Weapon_HeatWidget_C:Weapon_HeatPercentage
+
+[2018.08.09-18.16.41:651][452]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Igra/Widgets/WeaponHud/Weapon_HeatWidget.Weapon_HeatWidget_C:Weapon_HeatPercentage
+
+[2018.08.09-18.16.41:659][453]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Igra/Widgets/WeaponHud/Weapon_HeatWidget.Weapon_HeatWidget_C:Weapon_HeatPercentage
+
+[2018.08.09-18.16.41:668][454]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Igra/Widgets/WeaponHud/Weapon_HeatWidget.Weapon_HeatWidget_C:Weapon_HeatPercentage
+
+[2018.08.09-18.16.41:676][455]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Igra/Widgets/WeaponHud/Weapon_HeatWidget.Weapon_HeatWidget_C:Weapon_HeatPercentage
+
+[2018.08.09-18.16.41:684][456]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Igra/Widgets/WeaponHud/Weapon_HeatWidget.Weapon_HeatWidget_C:Weapon_HeatPercentage
+
+[2018.08.09-18.16.41:693][457]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Igra/Widgets/WeaponHud/Weapon_HeatWidget.Weapon_HeatWidget_C:Weapon_HeatPercentage
+
+[2018.08.09-18.16.41:701][458]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Igra/Widgets/WeaponHud/Weapon_HeatWidget.Weapon_HeatWidget_C:Weapon_HeatPercentage
+
+[2018.08.09-18.16.41:710][459]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Igra/Widgets/WeaponHud/Weapon_HeatWidget.Weapon_HeatWidget_C:Weapon_HeatPercentage
+
+[2018.08.09-18.16.41:718][460]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Igra/Widgets/WeaponHud/Weapon_HeatWidget.Weapon_HeatWidget_C:Weapon_HeatPercentage
+
+[2018.08.09-18.16.41:726][461]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Igra/Widgets/WeaponHud/Weapon_HeatWidget.Weapon_HeatWidget_C:Weapon_HeatPercentage
+
+[2018.08.09-18.16.41:735][462]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Igra/Widgets/WeaponHud/Weapon_HeatWidget.Weapon_HeatWidget_C:Weapon_HeatPercentage
+
+[2018.08.09-18.16.41:743][463]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Igra/Widgets/WeaponHud/Weapon_HeatWidget.Weapon_HeatWidget_C:Weapon_HeatPercentage
+
+[2018.08.09-18.16.41:751][464]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Igra/Widgets/WeaponHud/Weapon_HeatWidget.Weapon_HeatWidget_C:Weapon_HeatPercentage
+
+[2018.08.09-18.16.41:760][465]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/Igra/Widgets/WeaponHud/Weapon_HeatWidget.Weapon_HeatWidget_C:Weapon_HeatPercentage
+
+[2018.08.09-18.16.41:765][466]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Mapa1.Mapa1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Mapa1.Mapa1:PersistentLevel.Mapa1' with GeneratedClass '/Game/Maps/Mapa1.Mapa1_C' with ClassGeneratedBy '/Game/Maps/Mapa1.Mapa1:PersistentLevel.Mapa1'
+[2018.08.09-18.16.41:765][466]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.09-18.16.41:796][466]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.08.09-18.16.41:796][466]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Mapa1.Mapa1:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Mapa1.Mapa1:PersistentLevel.Mapa1' with GeneratedClass '/Game/Maps/Mapa1.Mapa1_C' with ClassGeneratedBy '/Game/Maps/Mapa1.Mapa1:PersistentLevel.Mapa1'
+[2018.08.09-18.16.41:826][466]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.08.09-18.16.41:865][469]LogPlayLevel: Display: Destroying online subsystem :Context_39
+[2018.08.09-18.16.46:169][809]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.09-18.30.45:327][960]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.09-18.30.48:457][272]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.09-18.31.04:232][525]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.09-18.32.44:400][432]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.09-18.32.45:602][545]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.09-18.32.45:645][545]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Mapa1" FILE="../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Maps/Mapa1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.08.09-18.32.45:855][545]LogSavePackage: Moving '../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Saved/Mapa12F390F17425AE611A9E2478EF0EEED45.tmp' to '../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Maps/Mapa1.umap'
