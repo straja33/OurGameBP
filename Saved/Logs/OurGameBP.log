@@ -5244,3 +5244,90 @@ Script call stack:
 [2018.08.09-18.29.36:530][368]EditorErrors: Warning: No assets to check in!
 [2018.08.09-18.29.42:650][  4]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
 [2018.08.09-18.29.57:076][647]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cone)
+[2018.08.09-18.31.18:656][274]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.09-18.31.47:594][262]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.09-18.31.49:454][305]LogSlate: Window 'Save Content' being destroyed
+[2018.08.09-18.31.49:483][305]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.09-18.31.49:567][305]LogSlate: Took 0.000203 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.08.09-18.31.49:569][305]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.09-18.31.49:695][305]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Mapa1" FILE="../../../../../../Users/Bogdan/Documents/Unreal Projects/OurGameBP/Content/Maps/Mapa1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.08.09-18.31.49:840][305]LogSavePackage: Moving '../../../../../../Users/Bogdan/Documents/Unreal Projects/OurGameBP/Saved/Mapa1821266BA4B680955D08E278E4D0D550F.tmp' to '../../../../../../Users/Bogdan/Documents/Unreal Projects/OurGameBP/Content/Maps/Mapa1.umap'
+[2018.08.09-18.31.49:884][305]LogFileHelpers: Saving map 'Mapa1' took 0.299
+[2018.08.09-18.32.00:711][556]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.09-18.32.06:846][258]MapCheck: New page: Map Check
+[2018.08.09-18.32.06:861][258]Cmd: MAP REBUILD ALLVISIBLE
+[2018.08.09-18.32.06:861][258]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.08.09-18.32.06:904][258]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2018.08.09-18.32.06:909][258]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy Grenade_Mat, compiling. 
+[2018.08.09-18.32.06:914][258]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.09-18.32.06:915][258]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy PistlTexture_Mat, compiling. 
+[2018.08.09-18.32.06:920][258]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy uzi_Mat, compiling. 
+[2018.08.09-18.32.06:925][258]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.09-18.32.06:925][258]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.09-18.32.06:925][258]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy MeeleRobotIdle_Mat, compiling. 
+[2018.08.09-18.32.07:809][258]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.09-18.32.07:809][258]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.08.09-18.32.07:809][258]TextureStreamingBuild: Display: Compiling optional shaders took 0.910 seconds.
+[2018.08.09-18.32.07:816][258]LogLevel: Display: Export Material TexCoord Scales took 0.007 seconds.
+[2018.08.09-18.32.07:823][258]TextureStreamingBuild: Display: Build Texture Streaming took 0.006 seconds.
+[2018.08.09-18.32.07:844][258]LightingResults: New page: Lighting Build - Aug 9, 2018, 10:32:07 PM
+[2018.08.09-18.32.07:901][258]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.08.09-18.32.07:962][258]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.08.09-18.32.07:973][258]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.08.09-18.32.08:480][258]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.08.09-18.32.08:481][258]LogSwarmInterface: [TryOpenConnection] Local Process ID is 7708
+[2018.08.09-18.32.10:858][258]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.08.09-18.32.10:859][258]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.08.09-18.32.10:859][258]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.08.09-18.32.10:859][258]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.08.09-18.32.10:859][258]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.08.09-18.32.10:859][258]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.08.09-18.32.11:289][258]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.08.09-18.32.11:289][258]MapCheck: New page: Mapa1 - Aug 9, 2018, 10:32:11 PM
+[2018.08.09-18.32.11:369][258]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 79.988ms to complete.
+[2018.08.09-18.32.11:392][258]LogEditorBuildUtils: Build time 0:04
+[2018.08.09-18.32.11:401][258]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer BasicShapeMaterial, compiling. 
+[2018.08.09-18.32.11:408][258]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.09-18.32.11:408][258]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer BasicShapeMaterial, compiling. 
+[2018.08.09-18.32.11:431][258]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.08.09-18.32.14:242][364]Job is a success!
+[2018.08.09-18.32.14:268][365]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.09-18.32.14:317][365]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.031s
+[2018.08.09-18.32.14:317][365]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.08.09-18.32.14:317][365]LogVolumetricLightmapImport:      BrickData 180x5x5 = 0.2Mb
+[2018.08.09-18.32.14:317][365]LogVolumetricLightmapImport:      Bricks at Level
+[2018.08.09-18.32.14:317][365]LogVolumetricLightmapImport:          0: 2.8% covering 100.0% of volume
+[2018.08.09-18.32.14:317][365]LogVolumetricLightmapImport:          1: 11.1% covering 6.3% of volume
+[2018.08.09-18.32.14:317][365]LogVolumetricLightmapImport:          2: 86.1% covering 0.8% of volume
+[2018.08.09-18.32.14:423][365]LogTexture: Display: Building textures: SkyOcclusion0_1 (AutoDXT, 256X128)
+[2018.08.09-18.32.14:423][365]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 256X256)
+[2018.08.09-18.32.14:423][365]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 256X256)
+[2018.08.09-18.32.14:621][365]Lightmass on DESKTOP-2UN8804: 1.34 sec total, 152 ms importing, 24 ms setup, 379 ms photons, 526 ms processing, 0 ms extra exporting [4/4 mappings]. Threads: 3.52 sec total, 94 ms processing.
+[2018.08.09-18.32.14:663][365]LogStaticLightingSystem: Illumination: 6.79 sec (23 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2018.08.09-18.32.14:663][365]LogStaticLightingSystem: Lightmap texture memory:  0.2 MB (0.2 MB streaming, 0.0 MB non-streaming), 2 textures
+[2018.08.09-18.32.14:663][365]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2018.08.09-18.32.14:863][365]DumpUnbuiltLightIteractions
+[2018.08.09-18.32.14:864][365]Lights with unbuilt interactions: 0
+[2018.08.09-18.32.14:864][365]
+[2018.08.09-18.32.14:864][365]Primitives with unbuilt interactions: 0
+[2018.08.09-18.32.14:868][365]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.09-18.32.14:897][366]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.08.09-18.32.14:898][366]MapCheck: New page: Mapa1 - Aug 9, 2018, 10:32:14 PM
+[2018.08.09-18.32.14:976][366]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 78.927ms to complete.
+[2018.08.09-18.32.16:119][477]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.09-18.32.17:501][486]LogSlate: Window 'Save Content' being destroyed
+[2018.08.09-18.32.17:509][486]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.09-18.32.17:564][486]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.09-18.32.17:650][486]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Mapa1" FILE="../../../../../../Users/Bogdan/Documents/Unreal Projects/OurGameBP/Content/Maps/Mapa1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.08.09-18.32.17:786][486]LogSavePackage: Moving '../../../../../../Users/Bogdan/Documents/Unreal Projects/OurGameBP/Saved/Mapa18E75052943444AB6CF8CA5BBDC3848A3.tmp' to '../../../../../../Users/Bogdan/Documents/Unreal Projects/OurGameBP/Content/Maps/Mapa1.umap'
+[2018.08.09-18.32.17:824][486]LogFileHelpers: Saving map 'Mapa1' took 0.255
+[2018.08.09-18.32.17:827][486]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Mapa1_BuiltData" FILE="../../../../../../Users/Bogdan/Documents/Unreal Projects/OurGameBP/Content/Maps/Mapa1_BuiltData.uasset" SILENT=true
+[2018.08.09-18.32.17:848][486]LogSavePackage: Moving '../../../../../../Users/Bogdan/Documents/Unreal Projects/OurGameBP/Saved/Mapa1_BuiltDataBE7E0E4C4E3EA51D3B7DC7B092B124F3.tmp' to '../../../../../../Users/Bogdan/Documents/Unreal Projects/OurGameBP/Content/Maps/Mapa1_BuiltData.uasset'
+[2018.08.09-18.32.20:778][771]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content' is outside repository
+[2018.08.09-18.32.35:333][771]LogSlate: Window 'Submit Files' being destroyed
+[2018.08.09-18.32.36:034][771]LogSourceControl: commit successful: [master a6cc326] slovo d
+[2018.08.09-18.32.36:088][771]SourceControl: [master a6cc326] slovo d
+[2018.08.09-18.32.36:088][771]SourceControl:  2 files changed, 0 insertions(+), 0 deletions(-)
+[2018.08.09-18.32.36:088][771]SourceControl:  rewrite Content/Maps/Mapa1.umap (70%)
+[2018.08.09-18.32.36:088][771]SourceControl:  create mode 100644 Content/Maps/Mapa1_BuiltData.uasset
+[2018.08.09-18.32.36:093][771]SourceControl: Commited [master a6cc326] slovo d.
