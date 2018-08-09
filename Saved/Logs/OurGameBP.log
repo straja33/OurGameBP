@@ -436,3 +436,37 @@ Make sure 'Hero_C' has been compiled for  Load Player Stats
 [2018.08.09-17.31.47:330][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000070 seconds (updated 0 objects)
 [2018.08.09-17.31.52:848][178]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2018.08.09-17.32.06:132][641]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.09-17.34.16:717][375]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.09-17.34.57:298][344]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.09-17.34.58:680][453]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content' is outside repository
+[2018.08.09-17.34.58:810][453]EditorErrors: Warning: No assets to check in!
+[2018.08.09-17.35.01:517][620]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.09-17.35.02:780][697]LogSlate: Window 'Message Log' being destroyed
+[2018.08.09-17.35.02:791][697]LogSlate: Window 'Message Log' being destroyed
+[2018.08.09-17.35.26:565][227]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.09-17.35.29:706][527]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.09-17.35.29:877][536]LogSlate: Took 0.000185 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.08.09-17.35.29:882][536]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Igra/Hero/OurHero.OurHero
+[2018.08.09-17.35.30:400][536]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2018.08.09-17.35.31:456][536]LogSlate: Took 0.000204 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.08.09-17.35.31:566][537]LogSlate: Took 0.000191 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.08.09-17.35.37:707][817]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.09-17.35.37:714][817]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Igra/Hero/OurHero" FILE="../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Hero/OurHero.uasset" SILENT=true
+[2018.08.09-17.35.37:873][817]LogSavePackage: Moving '../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Saved/OurHero7BEF42744A2EFB017BF1D4B893D054AC.tmp' to '../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Hero/OurHero.uasset'
+[2018.08.09-17.35.37:947][821]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.09-17.35.40:119][939]LogSlate: Window 'OurHero' being destroyed
+[2018.08.09-17.35.40:120][939]LogSlate: Window 'OurHero' being destroyed
+[2018.08.09-17.35.40:663][981]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.09-17.35.44:527][235]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.09-17.35.44:675][242]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Igra/Hero/OurHero.OurHero
+[2018.08.09-17.35.46:292][307]LogSlate: Window 'OurHero' being destroyed
+[2018.08.09-17.35.46:293][307]LogSlate: Window 'OurHero' being destroyed
+[2018.08.09-17.35.46:826][353]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.09-17.35.56:982][825]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.09-17.35.56:987][825]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Mapa1" FILE="../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Maps/Mapa1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.08.09-17.35.57:181][825]LogSavePackage: Moving '../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Saved/Mapa1791539B64A4DAECEC06237AAA652E356.tmp' to '../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Maps/Mapa1.umap'
+[2018.08.09-17.36.10:058][903]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.09-17.36.17:087][466]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content' is outside repository
+[2018.08.09-17.36.17:159][466]EditorErrors: Warning: No assets to check in!
+[2018.08.09-17.36.19:364][590]LogSlate: Window 'Message Log' being destroyed
+[2018.08.09-17.36.19:376][590]LogSlate: Window 'Message Log' being destroyed
