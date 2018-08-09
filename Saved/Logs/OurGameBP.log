@@ -4715,3 +4715,24 @@ Make sure 'PlasmaGun' has been compiled for  Get PistoljGun
 [2018.08.09-17.57.45:117][793]LogSlate: FSceneViewport::OnFocusLost() reason 2
 [2018.08.09-17.57.45:121][793]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Mapa1" FILE="../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Maps/Mapa1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
 [2018.08.09-17.57.45:314][793]LogSavePackage: Moving '../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Saved/Mapa14404A1F04B95639B40E03998F19ACECF.tmp' to '../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Maps/Mapa1.umap'
+[2018.08.09-17.59.59:150][316]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.09-18.00.08:326][386]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.09-18.00.17:765][205]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Igra/Hero/Camera2.Camera2
+[2018.08.09-18.00.23:350][629]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.09-18.00.23:354][629]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Igra/Hero/Camera2" FILE="../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Hero/Camera2.uasset" SILENT=true
+[2018.08.09-18.00.23:379][629]LogSavePackage: Moving '../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Saved/Camera25228D71D45F8C39D955E9696FD2373EF.tmp' to '../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Hero/Camera2.uasset'
+[2018.08.09-18.00.25:152][766]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.09-18.00.35:436][645]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.09-18.00.35:439][645]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Igra/Hero/Camera2" FILE="../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Hero/Camera2.uasset" SILENT=true
+[2018.08.09-18.00.35:459][645]LogSavePackage: Moving '../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Saved/Camera232D5C02442D5A4210F5EF4AF4B6340E1.tmp' to '../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Hero/Camera2.uasset'
+[2018.08.09-18.00.36:993][754]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.09-18.00.37:882][828]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.09-18.00.37:885][828]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Igra/Hero/Camera2" FILE="../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Hero/Camera2.uasset" SILENT=true
+[2018.08.09-18.00.37:905][828]LogSavePackage: Moving '../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Saved/Camera21852E325443D3E6849853286D9C5C158.tmp' to '../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Hero/Camera2.uasset'
+[2018.08.09-18.00.38:662][898]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.09-18.00.38:738][905]LogSlate: Window 'Camera2' being destroyed
+[2018.08.09-18.00.38:744][905]LogSlate: Window 'Camera2' being destroyed
+[2018.08.09-18.00.39:321][963]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.08.09-18.00.40:903][ 84]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.08.09-18.00.40:906][ 84]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Mapa1" FILE="../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Maps/Mapa1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.08.09-18.00.41:094][ 84]LogSavePackage: Moving '../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Saved/Mapa11A1866D14F03BA8189B1FF982E6B215C.tmp' to '../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Maps/Mapa1.umap'
