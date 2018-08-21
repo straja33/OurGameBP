@@ -1,0 +1,710 @@
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Maps/Mapa1_BuiltData.uasset" 0
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Pre_Polish/Matrix_Panel1.uasset" 1
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Pre_Polish/Matrix_Panel1_Mat.uasset" 2
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Pre_Polish/Matrix_Panel2.uasset" 3
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Pre_Polish/Matrix_Panel2_Mat.uasset" 4
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Prison_Level/FloorBaseColor.uasset" 5
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Prison_Level/FloorBaseColor_Mat.uasset" 6
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Console2Images.uasset" 7
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/StarterContent/Materials/M_Basic_Wall.uasset" 8
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/elevator_bars.uasset" 9
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 10
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 11
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 12
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 13
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Polish/BaseColor-01.uasset" 14
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Polish/BaseColor-01_Mat.uasset" 15
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Polish/LabEquipment3-01.uasset" 16
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Polish/LabEquipment3-01_Mat.uasset" 17
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Machine1_StaticMesh.uasset" 18
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 19
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/SM_MERGED_Cube83_137.uasset" 20
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/SM_MERGED_PointLight3_3.uasset" 21
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Zuta.uasset" 22
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Uzvicnik.uasset" 23
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Uzvicnik.uasset" 24
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/WaveRoom1.uasset" 25
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Blueprints/UMGtoLevelBP.uasset" 26
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/ballsofwar.uasset" 27
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/selector-square-border.uasset" 28
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/AI/BasicAIMeele/BasicMeeleBlackBoard.uasset" 29
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/AI/BasicAIMeele/GetLastPlayerLocation.uasset" 30
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Pre_Polish/MeeleRobotAtack.uasset" 31
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Pre_Polish/MeeleRobotAtack_Mat.uasset" 32
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Pre_Polish/MeeleRobotDead.uasset" 33
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Pre_Polish/MeeleRobotDead_Mat.uasset" 34
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Pre_Polish/MeeleRobotIdle.uasset" 35
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Pre_Polish/MeeleRobotIdle_Mat.uasset" 36
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Particles/Base_Particle_Color.uasset" 37
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Particles/Particle_Material.uasset" 38
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Particles/P_cube_SPARK_2.uasset" 39
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Sounds/NewFolder/Robot_Bite.uasset" 40
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Sounds/NewFolder/Robot_Die_1.uasset" 41
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Sounds/NewFolder/Robot_Die_2.uasset" 42
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Sounds/NewFolder/Robot_Die_3.uasset" 43
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Sounds/NewFolder/Robot_Die_4.uasset" 44
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Sounds/NewFolder/Robot_Die_5.uasset" 45
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Sounds/NewFolder/Robot_Die_6.uasset" 46
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/StarterContent/Architecture/Cube_2.uasset" 47
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/AI/BasicAIMeele/BaseMeeleAttack.uasset" 48
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/AI/BasicAIMeele/MovetoPlayerBasicMeele.uasset" 49
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/AI/FindRandomLocation.uasset" 50
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/AI/BasicAIMeele/BasicMeeleBehaviorTree.uasset" 51
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/AI/BasicAIMeele/BaseClassAIController.uasset" 52
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/AI/BasicAIMeele/Zombie.uasset" 53
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/AI/Enemy_AI/DoubleShootRobot/Material_001.uasset" 54
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/AI/Enemy_AI/DoubleShootRobot/Material_002.uasset" 55
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/AI/Enemy_AI/DoubleShootRobot/Material_003.uasset" 56
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/AI/Enemy_AI/DoubleShootRobot/Material_004.uasset" 57
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/AI/Enemy_AI/DoubleShootRobot/Material_005.uasset" 58
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/AI/Enemy_AI/DoubleShootRobot/ROBO2_TANK.uasset" 59
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/AI/Enemy_AI/DoubleShootRobot/TankRobot_Body_Dead.uasset" 60
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/AI/Enemy_AI/DoubleShootRobot/TankRobot_Body_Dead_Mat.uasset" 61
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Texturing/CustomRotator.uasset" 62
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/AI/Enemy_AI/DoubleShootRobot/TankRobot_Body_Idle.uasset" 63
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/AI/Enemy_AI/DoubleShootRobot/TankRobot_Body_Idle_Mat.uasset" 64
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/AI/Enemy_AI/DoubleShootRobot/TankRobot_Body_Side.uasset" 65
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/AI/Enemy_AI/DoubleShootRobot/TankRobot_Body_Side_Mat.uasset" 66
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/AI/Enemy_AI/DoubleShootRobot/TankRobot_Cannon_Body.uasset" 67
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/AI/Enemy_AI/DoubleShootRobot/TankRobot_Cannon_Body_Mat.uasset" 68
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/AI/Enemy_AI/DoubleShootRobot/TankRobot_Cannon_Fire.uasset" 69
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/AI/Enemy_AI/DoubleShootRobot/TankRobot_Cannon_Fire_Mat.uasset" 70
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/AI/Enemy_AI/DoubleShootRobot/TankRobot_Cannon_Idle.uasset" 71
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/AI/Enemy_AI/DoubleShootRobot/TankRobot_Cannon_Idle_Mat.uasset" 72
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/AI/Enemy_AI/DoubleShootRobot/TankRobot_Platform_Above.uasset" 73
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/AI/Enemy_AI/DoubleShootRobot/TankRobot_Platform_Above_Mat.uasset" 74
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/AI/Enemy_AI/DoubleShootRobot/TankRobot_Platform_Front.uasset" 75
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/AI/Enemy_AI/DoubleShootRobot/TankRobot_Platform_Front_Mat.uasset" 76
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/AI/Enemy_AI/DoubleShootRobot/TankRobot_Platform_Side.uasset" 77
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/AI/Enemy_AI/DoubleShootRobot/TankRobot_Platform_Side_Mat.uasset" 78
+"../../../Engine/Content/BasicShapes/Cube.uasset" 79
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Door/DoorBasic.uasset" 80
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Functions/Characters/Hero_Functions.uasset" 81
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/GameMode/OurPlayerController.uasset" 82
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/GameMode/OurGameMode.uasset" 83
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Lights/BaseForLight.uasset" 84
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Lights/Blue.uasset" 85
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Lights/BlueAlarm.uasset" 86
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Lights/BlueCopling.uasset" 87
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Lights/CatLight.uasset" 88
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Lights/greyish.uasset" 89
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Lights/greyish_Mat.uasset" 90
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Lights/Orange.uasset" 91
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Lights/PoloYellow.uasset" 92
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Lights/redcouoling.uasset" 93
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Lights/redrobot.uasset" 94
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Lights/RedRoom1.uasset" 95
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Lights/Red_Laser.uasset" 96
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Lights/White2.uasset" 97
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 98
+"../../../Engine/Content/EngineMeshes/SkeletalCube_Skeleton.uasset" 99
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Oruzje/Weapon_Animation/kocka2amin.uasset" 100
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Sounds/Death_Sound.uasset" 101
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Igra.uasset" 102
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Widgets/DeathMenu/Restart_Level-01.uasset" 103
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Widgets/DeathMenu/Restart_Level_Hovered-01.uasset" 104
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Widgets/DeathMenu/You_Died.uasset" 105
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Widgets/DeathMenu/You_Died2.uasset" 106
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Widgets/MainMenu/Button_Clicked1.uasset" 107
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Widgets/MainMenu/Button_Hover1.uasset" 108
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Widgets/PauseMenu/Exit_Game-01.uasset" 109
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Widgets/PauseMenu/Exit_Hover-01.uasset" 110
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Widgets/PauseMenu/LFLC-01.uasset" 111
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Widgets/PauseMenu/LFLC_Hover-01.uasset" 112
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Widgets/DeathMenu/GameOver.uasset" 113
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Hero/Camera2.uasset" 114
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Grenade.uasset" 115
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Grenade_Mat.uasset" 116
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Oruzje/Ammunition/explosion.uasset" 117
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/StarterContent/Textures/T_Burst_M.uasset" 118
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/StarterContent/Particles/Materials/M_Burst.uasset" 119
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 120
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 121
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 122
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 123
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 124
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 125
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 126
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 127
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Particles/Prizoner_Explosion.uasset" 128
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Oruzje/Ammunition/Grenade2.uasset" 129
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Prison_Level/Bullet.uasset" 130
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Prison_Level/Bullet_Mat.uasset" 131
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Particles/P_cube_SPARK.uasset" 132
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Oruzje/Ammunition/Pistol_Bullet.uasset" 133
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Oruzje/Ammunition/Uzi_Bullet1.uasset" 134
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Widgets/PauseMenu/PauseMenuBP.uasset" 135
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Lights/GunPlasma_Muzzle.uasset" 136
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Lights/GunYellow_Muzzle.uasset" 137
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Oruzje/Weapon_Animation/HeroCube.uasset" 138
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Oruzje/Weapon_Skelet/Greande_Skelet.uasset" 139
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Prison_Level/PistlTexture.uasset" 140
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Prison_Level/PistlTexture_Mat.uasset" 141
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Oruzje/Weapon_Skelet/Pistol_Skelet.uasset" 142
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Oruzje/Weapon_Skelet/Plasma_Cannon.uasset" 143
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Oruzje/Weapon_Skelet/plasma_canno.uasset" 144
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Oruzje/Weapon_Skelet/PlasmaGun_Skelet.uasset" 145
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Oruzje/Weapon_Skelet/uzi.uasset" 146
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Oruzje/Weapon_Skelet/uzi_Mat.uasset" 147
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Oruzje/Weapon_Skelet/Uzi_Skelet.uasset" 148
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Sounds/Gun_fire.uasset" 149
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Widgets/Crosshair/Crosshair_White-01.uasset" 150
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Widgets/HealthBar/Health_New-01.uasset" 151
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Widgets/HealthBar/Heart_Symbol-01.uasset" 152
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Widgets/HealthBar/HeroHealthCrosshair.uasset" 153
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Pre_Polish/damage_effect-01.uasset" 154
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Widgets/PlayerDamage.uasset" 155
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/grenade_Png.uasset" 156
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Widgets/WeaponHud/Heat_New-02.uasset" 157
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Widgets/WeaponHud/Infinity-01.uasset" 158
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Widgets/WeaponHud/Pistl_Symbol-01.uasset" 159
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Widgets/WeaponHud/Uzi_Symbol-01.uasset" 160
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Widgets/WeaponHud/Weapon_HeatWidget.uasset" 161
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Hero/OurHero.uasset" 162
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Widgets/Objectives.uasset" 163
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Widgets/PauseMenu/Quit_To_Menu-01.uasset" 164
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Widgets/PauseMenu/Quit_To_Menu_Hover-01.uasset" 165
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Widgets/PauseMenu/Resume_Game-01.uasset" 166
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Widgets/PauseMenu/Resume_Hover-01.uasset" 167
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Widgets/PauseMenu/PauseMenu.uasset" 168
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Macros/Characters/Hero_Macro.uasset" 169
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Textureee/PassKey.uasset" 170
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Textureee/PassKey_Mat.uasset" 171
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Oruzje/PassCodeKey.uasset" 172
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Lights/RedRoom.uasset" 173
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Oruzje/Ammunition/Boss_Turret_Laser.uasset" 174
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Oruzje/Ammunition/MachineGun_Bullet.uasset" 175
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Lights/Plazma_Cannon.uasset" 176
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Oruzje/Ammunition/Plasma_Bullet.uasset" 177
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Lights/Laser_Blue_Robot.uasset" 178
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Oruzje/Ammunition/Robot_Laser2.uasset" 179
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Oruzje/Ammunition/Robot_Laser_Fast.uasset" 180
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Oruzje/Ammunition/Robot_Laser_Tank.uasset" 181
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Oruzje/Ammunition/Robot_Laser_Tank_Matinee.uasset" 182
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/barell.uasset" 183
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/barell_Mat.uasset" 184
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Oruzje/Explosions/Barrel.uasset" 185
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Oruzje/Weapon_Skelet/Plazma_Fire.uasset" 186
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Sounds/Crnac_Song.uasset" 187
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Sounds/Dialog1.uasset" 188
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Sounds/door_close.uasset" 189
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Sounds/Dor_Open.uasset" 190
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Sounds/flow_me_.uasset" 191
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Sounds/HorseSound.uasset" 192
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Sounds/Initiate_LaserRobots.uasset" 193
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Sounds/laser_control_off.uasset" 194
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Sounds/3D/SoundForLaser.uasset" 195
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Sounds/laser_jebeni.uasset" 196
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Sounds/ouch.uasset" 197
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Sounds/PoloRoomLightSwitch.uasset" 198
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Sounds/robotpreparetodiehuman.uasset" 199
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Sounds/scientist_death.uasset" 200
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Sounds/SC_Hide.uasset" 201
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Sounds/soldier_comehere.uasset" 202
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Sounds/soldier_death.uasset" 203
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Sounds/soldier_takethisgun.uasset" 204
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Sounds/toilet_flush.uasset" 205
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Sounds/1/Dog_Cube1.uasset" 206
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Sounds/1/Dog_Cube2.uasset" 207
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Sounds/1/Epic_Music.uasset" 208
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Sounds/1/Pleasant_Suprise.uasset" 209
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Sounds/3D/PoloMusic3D.uasset" 210
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Sounds/1/Polo_Music.uasset" 211
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Sounds/1/Pre_elevator_alarm.uasset" 212
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Sounds/1/PrisonerAfter_Reallease.uasset" 213
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Sounds/1/PrisonerAskForRealease.uasset" 214
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Sounds/1/PrisonerFlyUp.uasset" 215
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Sounds/1/PrisonerReleaseButton.uasset" 216
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Sounds/1/RedneckCantShootNPC.uasset" 217
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Sounds/1/RedneckFirstTalk.uasset" 218
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Sounds/1/RedneckGoAwayBoy.uasset" 219
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Sounds/1/Scientist_Dog1.uasset" 220
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Sounds/1/Scientist_Dog2.uasset" 221
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Sounds/1/WarningPrisonerEscaped.uasset" 222
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Sounds/3D/Horse.uasset" 223
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Sounds/3D/SoundFor_Black_Man.uasset" 224
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Sounds/NewFolder/Laser_Burn.uasset" 225
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Sounds/NewFolder/prepare_to_die.uasset" 226
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/BAD_ROBOT_MEELE.uasset" 227
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/BAD_ROBOT_MEELE_Mat.uasset" 228
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/belo.uasset" 229
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/belo_Mat.uasset" 230
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/BLACKMAN_ZULU_SHAKALALAKA.uasset" 231
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/BLACKMAN_ZULU_SHAKALALAKA_Mat.uasset" 232
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Cat1.uasset" 233
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Cat1_Mat.uasset" 234
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Cat2.uasset" 235
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Cat2_Mat.uasset" 236
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Cat3.uasset" 237
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Cat3_Mat.uasset" 238
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Cat4.uasset" 239
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Cat4_Mat.uasset" 240
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Cat5.uasset" 241
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Cat5_Mat.uasset" 242
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/chandelier.uasset" 243
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/chandelier_Mat.uasset" 244
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/gramofon.uasset" 245
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/gramofon_Mat.uasset" 246
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/laser_control_OFF.uasset" 247
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/LaserControlOff_Mat.uasset" 248
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/VR_LaserPower_01.uasset" 249
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/LaserPointerMaterial.uasset" 250
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/LaserPointerMaterial_Inst.uasset" 251
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/laser_control_ON.uasset" 252
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/laser_control_ON_Mat.uasset" 253
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Laser_Wizard.uasset" 254
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/LAZER.uasset" 255
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/LAZER_Mat.uasset" 256
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/long_wall.uasset" 257
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/long_wall_Mat.uasset" 258
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/PillowTexture.uasset" 259
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/PillowTexture_Mat.uasset" 260
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/sajfajdor.uasset" 261
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/sajfajdor_Mat.uasset" 262
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/SCIENTINST_SPFN.uasset" 263
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/SCIENTINST_SPFN_Mat.uasset" 264
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Toilet.uasset" 265
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Toilet_Mat.uasset" 266
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Upitnik_Crvena.uasset" 267
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/zelena.uasset" 268
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Upitnik_Zelena.uasset" 269
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/NPC/Dog_Cube__1_.uasset" 270
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/NPC/Dog_Cube__1__Mat.uasset" 271
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/NPC/Scientist1_Dead.uasset" 272
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/NPC/Scientist1_Dead_Mat.uasset" 273
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/NPC/Scientist1.uasset" 274
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/NPC/Scientist1_Mat.uasset" 275
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/NPC/Scientist2.uasset" 276
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/NPC/Scientist2_Mat.uasset" 277
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/NPC/SOldier1DEAD.uasset" 278
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/NPC/SOldier1DEAD_Mat.uasset" 279
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/NPC/SOldier1.uasset" 280
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/NPC/SOldier1_Mat.uasset" 281
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/NPC/Soldier2_Dead.uasset" 282
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/NPC/Soldier2_Dead_Mat.uasset" 283
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Polish/Destroy_Human.uasset" 284
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Polish/Destroy_Human_Mat.uasset" 285
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Polish/DoubleDoorL-01.uasset" 286
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Polish/DoubleDoorL-01_Mat.uasset" 287
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Polish/DoubleDoorR_BLOCK-01.uasset" 288
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Polish/DoubleDoorR_Off-01.uasset" 289
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Polish/DoubleDoorR_ON-01.uasset" 290
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Polish/DoubleDoorR_ON-01_Mat.uasset" 291
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Polish/LabEquipment2-01.uasset" 292
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Polish/LabEquipment2-01_Mat.uasset" 293
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Polish/LabEquipment4-01.uasset" 294
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Polish/LabEquipment4-01_Mat.uasset" 295
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Polish/LabEquipment5.uasset" 296
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Polish/LabEquipment5_Mat.uasset" 297
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Polish/LabEquipment6.uasset" 298
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Polish/LabEquipment6_Mat.uasset" 299
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Polish/LaserDeploy-01.uasset" 300
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Polish/LaserDeploy-01_Mat.uasset" 301
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Polish/LaserEmitterBASE-01.uasset" 302
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Polish/LaserEmitterBASE-01_Mat.uasset" 303
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Polish/LaserEmitterOff.uasset" 304
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Polish/LaserEmitterOff_Mat.uasset" 305
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Polish/LaserEmitterON-01.uasset" 306
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Polish/LaserEmitterON-01_Mat.uasset" 307
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Polish/Little_BoxApparatus-01.uasset" 308
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Polish/Little_BoxApparatus-01_Mat.uasset" 309
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Polish/LP_square.uasset" 310
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Polish/LP_square_Mat.uasset" 311
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Polish/PassCodeConsole-01.uasset" 312
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Polish/PassCodeConsole-01_Mat.uasset" 313
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Polish/PassCodeConsoleCHECK-01.uasset" 314
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Polish/PassCodeConsoleCHECK-01_Mat.uasset" 315
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Polish/PassCodeROBOTIdle-01.uasset" 316
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Polish/PassCodeROBOTIdle-01_Mat.uasset" 317
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Polish/PassCodeROBOT_Atack-01.uasset" 318
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Polish/PassCodeROBOT_Atack-01_Mat.uasset" 319
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Polish/PassCodeROBO_Dead-01.uasset" 320
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Polish/PassCodeROBO_Dead-01_Mat.uasset" 321
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Polish/PosterChargeUp-01.uasset" 322
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Polish/PosterChargeUp-01_Mat.uasset" 323
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Polish/PosterDidYouKnow1-01.uasset" 324
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Polish/PosterDidYouKnow1-01_Mat.uasset" 325
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Polish/PosterDidYouKnow2-01.uasset" 326
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Polish/PosterDidYouKnow2-01_Mat.uasset" 327
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Polish/PosterDidYouKnow3-01.uasset" 328
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Polish/PosterDidYouKnow3-01_Mat.uasset" 329
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Polish/PosterOverlords-01.uasset" 330
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Polish/PosterOverlords-01_Mat.uasset" 331
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Polish/PosterTeamWork-01.uasset" 332
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Polish/PosterTeamWork-01_Mat.uasset" 333
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Polish/PRIS_RELEASE-01.uasset" 334
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Polish/PRIS_RELEASE-01_Mat.uasset" 335
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Polish/PRIS_RELEASED-01.uasset" 336
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Polish/PRIS_RELEASED-01_Mat.uasset" 337
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Polish/RoboDesktop-01.uasset" 338
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Polish/RoboDesktop-01_Mat.uasset" 339
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Polish/SCIENTIST_NEW_DEAD.uasset" 340
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Polish/SCIENTIST_NEW_DEAD_Mat.uasset" 341
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Polish/SCIENTIST_NEW.uasset" 342
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Polish/SCIENTIST_NEW_Mat.uasset" 343
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Polish/SIngleDoorBLOCK-01.uasset" 344
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Polish/SIngleDoorBLOCK-01_Mat.uasset" 345
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Polish/SingleDoorOff-01.uasset" 346
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Polish/SingleDoorOff-01_Mat.uasset" 347
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Polish/SingleDoorON-01.uasset" 348
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Polish/SingleDoorON-01_Mat.uasset" 349
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Polish/smiley.uasset" 350
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Polish/smiley_Mat.uasset" 351
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Polish/warning_screen.uasset" 352
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Polish/warning_screen_Mat.uasset" 353
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Pre_Polish/broken_screen.uasset" 354
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Pre_Polish/broken_screen_Mat.uasset" 355
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Pre_Polish/CrossHair_Cross-01.uasset" 356
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Pre_Polish/DeadlyFloor.uasset" 357
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Pre_Polish/DeadlyFloor_Mat.uasset" 358
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Pre_Polish/ELEVATOR_CALLED.uasset" 359
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Pre_Polish/ELEVATOR_CALLED_Mat.uasset" 360
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Pre_Polish/ELEVATOR.uasset" 361
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Pre_Polish/ELEVATOR_Mat.uasset" 362
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Pre_Polish/EngineRoomDOWN.uasset" 363
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Pre_Polish/EngineRoomTHisWay.uasset" 364
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Pre_Polish/HPBAR_blue-01.uasset" 365
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Pre_Polish/LASER_POWER_OFF.uasset" 366
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Pre_Polish/LASER_POWER_OFF_Mat.uasset" 367
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Pre_Polish/LASER_POWER_ON.uasset" 368
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Pre_Polish/LASER_POWER_ON_Mat.uasset" 369
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Pre_Polish/NotaTrap.uasset" 370
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Pre_Polish/NotaTrap_Mat.uasset" 371
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Pre_Polish/NPCSPAWNAREA.uasset" 372
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Pre_Polish/NPCSPAWNAREA_Mat.uasset" 373
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Pre_Polish/Objectives_Tab-01.uasset" 374
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Pre_Polish/Objectives_Tab-01_Mat.uasset" 375
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Pre_Polish/PrisonerStatus.uasset" 376
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Pre_Polish/PrisonerStatus_Mat.uasset" 377
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Pre_Polish/PrisonRelease.uasset" 378
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Prison_Level/BaseWallColor.uasset" 379
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Prison_Level/BaseWallColor_Mat.uasset" 380
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Prison_Level/BasicWhiteLightRECTANGLE.uasset" 381
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Prison_Level/BasicWhiteLightRECTANGLE_Mat.uasset" 382
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Prison_Level/black_color.uasset" 383
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Prison_Level/black_color_Mat.uasset" 384
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Prison_Level/BlueIndigoLight.uasset" 385
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Prison_Level/BlueIndigoLight_Mat.uasset" 386
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Prison_Level/BlueLifgtStrip.uasset" 387
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Prison_Level/BrokenTerminal1.uasset" 388
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Prison_Level/BrokenTerminal1_Mat.uasset" 389
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Prison_Level/BrokenTerminal2.uasset" 390
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Prison_Level/BrokenTerminal3.uasset" 391
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Prison_Level/door.uasset" 392
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Prison_Level/door_Mat.uasset" 393
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Prison_Level/LaserContRoomSING.uasset" 394
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Prison_Level/LaserContRoomSING_Mat.uasset" 395
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Prison_Level/LaserEmitterBaseColor.uasset" 396
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Prison_Level/LaserEmitterBaseColor_Mat.uasset" 397
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Prison_Level/LaserEmitter.uasset" 398
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Prison_Level/LaserEmitter_Mat.uasset" 399
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Prison_Level/METAL_WALL.uasset" 400
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Prison_Level/PassCodeSign2.uasset" 401
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Prison_Level/PassCodeSign2_Mat.uasset" 402
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Prison_Level/PillowTexture.uasset" 403
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Prison_Level/PrisonSing.uasset" 404
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Prison_Level/PrisonSing_Mat.uasset" 405
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Prison_Level/RedLight.uasset" 406
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Prison_Level/RedLight_Mat.uasset" 407
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Prison_Level/SpaceTerminalBlack1.uasset" 408
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Prison_Level/SpaceTerminalBlack1_Mat.uasset" 409
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Prison_Level/SpaceTerminalBlack2.uasset" 410
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Prison_Level/SpaceTerminalBlack3.uasset" 411
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Prison_Level/SpaceTerminalBlack3_Mat.uasset" 412
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Prison_Level/SpaceTerminalBLue1.uasset" 413
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Prison_Level/SpaceTerminalBLue1_Mat.uasset" 414
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Prison_Level/SpaceTerminalBLue2.uasset" 415
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Prison_Level/SpaceTerminalBLue2_Mat.uasset" 416
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Prison_Level/SpaceTerminalBLue3.uasset" 417
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Prison_Level/SpaceTerminalBLue3_Mat.uasset" 418
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Prison_Level/SpaceTerminalBLue4.uasset" 419
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Prison_Level/SpaceTerminalBLue4_Mat.uasset" 420
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Prison_Level/SpaceTerminalGreen1.uasset" 421
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Prison_Level/SpaceTerminalGreen1_Mat.uasset" 422
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Prison_Level/WallColumnCOmponent.uasset" 423
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Prison_Level/WallColumnCOmponent_Mat.uasset" 424
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Prison_Level/WallColumnCOmponent_Mat_Inst.uasset" 425
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Textureee/Gramophone.uasset" 426
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Textureee/Gramophone_Mat.uasset" 427
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Textureee/HorseBlack2.uasset" 428
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Textureee/HorseBlack2_Mat.uasset" 429
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Textureee/HorseBLack.uasset" 430
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Textureee/HorseBLack_Mat.uasset" 431
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Textureee/HorseWhite.uasset" 432
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Textureee/HorseWhite_Mat.uasset" 433
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Textureee/LaserFiringRobot.uasset" 434
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Textureee/LaserFiringRobot_Mat.uasset" 435
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Textureee/PassCodeSign.uasset" 436
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Textureee/PassCodeSign_Mat.uasset" 437
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Textureee/passkey_robot.uasset" 438
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Textureee/passkey_robot_Mat.uasset" 439
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Textureee/PoloPlayer.uasset" 440
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Textureee/PoloPlayer_Mat.uasset" 441
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Textureee/PrizonerReleaseButtonPressed.uasset" 442
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Textureee/PrizonerReleaseButtonPressed_Mat.uasset" 443
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Textureee/PrizonerReleaseButton.uasset" 444
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Textureee/PrizonerReleaseButton_Mat.uasset" 445
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Textureee/Prizoner.uasset" 446
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Textureee/Prizoner_Mat.uasset" 447
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Textureee/RedneckGUn.uasset" 448
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Textureee/RedneckGUn_Mat.uasset" 449
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Textureee/Redneck.uasset" 450
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Textureee/Redneck_Mat.uasset" 451
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Widgets/FadeIN_FadeOut.uasset" 452
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Widgets/GlobalInteractE.uasset" 453
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Widgets/Subtitles.uasset" 454
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Movies/INTRO_1_4.uasset" 455
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Movies/Intro.uasset" 456
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Widgets/MainMenu/Bimba_Games.uasset" 457
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Widgets/MainMenu/cooltext285217614259233.uasset" 458
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Widgets/MainMenu/cooltext285217614259233_Mat.uasset" 459
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Widgets/MainMenu/Story_Intro.uasset" 460
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Widgets/MainMenu/NewMediaPlaylist.uasset" 461
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Widgets/WeaponHud/Heat_New-01.uasset" 462
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/StarterContent/Architecture/BasicShapeMaterial_2.uasset" 463
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/StarterContent/Materials/M_Basic_Floor.uasset" 464
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/StarterContent/Architecture/Floor_400x400.uasset" 465
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/StarterContent/Architecture/Pillar_50x500.uasset" 466
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/StarterContent/Architecture/Shape_Cube.uasset" 467
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/StarterContent/Materials/M_AssetPlatform.uasset" 468
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 469
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/StarterContent/Architecture/Wall_400x200.uasset" 470
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/StarterContent/Architecture/Wall_400x400.uasset" 471
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/StarterContent/Architecture/Wall_500x500.uasset" 472
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" 473
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 474
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" 475
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 476
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 477
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 478
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 479
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 480
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 481
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/StarterContent/Textures/T_Water_N.uasset" 482
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 483
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 484
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/StarterContent/Textures/T_Spark_Core.uasset" 485
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/StarterContent/Particles/Materials/M_Spark.uasset" 486
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 487
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 488
+"../../../Engine/Content/BasicShapes/Cone.uasset" 489
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 490
+"../../../Engine/Content/BasicShapes/Plane.uasset" 491
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 492
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 493
+"../../../Engine/Content/EditorMaterials/GizmoMaterial.uasset" 494
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 495
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 496
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 497
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 498
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 499
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 500
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 501
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 502
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 503
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 504
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 505
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 506
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 507
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 508
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 509
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 510
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 511
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 512
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 513
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 514
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 515
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 516
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 517
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 518
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 519
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 520
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 521
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 522
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 523
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 524
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 525
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 526
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 527
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 528
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 529
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 530
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 531
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 532
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 533
+"../../../Engine/Content/EngineDebugMaterials/HeatmapGradient.uasset" 534
+"../../../Engine/Content/EngineDebugMaterials/BoneWeightMaterial.uasset" 535
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial.uasset" 536
+"../../../Engine/Content/EngineDebugMaterials/ClothMaterial_WF.uasset" 537
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 538
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 539
+"../../../Engine/Content/EngineDebugMaterials/GeomMaterial.uasset" 540
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 541
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 542
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 543
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 544
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 545
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 546
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 547
+"../../../Engine/Content/EngineFonts/Faces/RobotoTiny.uasset" 548
+"../../../Engine/Content/EngineFonts/RobotoTiny.uasset" 549
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 550
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 551
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 552
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 553
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 554
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 555
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 556
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 557
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 558
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 559
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 560
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 561
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 562
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 563
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 564
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 565
+"../../../Engine/Content/EngineMaterials/EditorBrushMaterial.uasset" 566
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 567
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 568
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 569
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 570
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 571
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 572
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 573
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 574
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 575
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 576
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 577
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 578
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 579
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 580
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 581
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 582
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 583
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 584
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 585
+"../../../Engine/Content/EngineResources/Black.uasset" 586
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 587
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 588
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 589
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 590
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 591
+"../../../Engine/Content/EngineSounds/Master.uasset" 592
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 593
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 594
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 595
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 596
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 597
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 598
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 599
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 600
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 601
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 602
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 603
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 604
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 605
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 606
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 607
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 608
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 609
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 610
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 611
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 612
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 613
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 614
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 615
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 616
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 617
+"../../../Engine/Content/Tutorial/BlueprintTutorials/TutorialAssets/Blueprint_64x.uasset" 618
+"../../../Engine/Content/Tutorial/Mobile/TutorialAssets/android_Icon.uasset" 619
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 620
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 621
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 622
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 623
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 624
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 625
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 626
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 627
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 628
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 629
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 630
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 631
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 632
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 633
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 634
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 635
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 636
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_AO.uasset" 637
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Color.uasset" 638
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/GearVRController_Normal.uasset" 639
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/GearVRControllerMaterial.uasset" 640
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/GearVrController.uasset" 641
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 642
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 643
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 644
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 645
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 646
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 647
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Widgets/GlobalPickUP.uasset" 648
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Oruzje/Grenade_PickUp.uasset" 649
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Sounds/gun_pickup.uasset" 650
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Oruzje/Pistol.uasset" 651
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Oruzje/PlasmaGun.uasset" 652
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Oruzje/Uzi.uasset" 653
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 654
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Maps/Mapa1.umap" 655
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Mapa/PersistentLevel_BuiltData.uasset" 656
+"../../../Engine/Content/MapTemplates/daylight.uasset" 657
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Mapa/PersistentLevel.umap" 658
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Mapa/MainMenu/LoadingScreen_BuiltData.uasset" 659
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Widgets/MainMenu/Loading_Cube-01.uasset" 660
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Widgets/MainMenu/Loading_Cube-01_Mat.uasset" 661
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Widgets/MainMenu/Story_Intro_Media.uasset" 662
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Widgets/MainMenu/Story_Intro_Media_Video.uasset" 663
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Widgets/MainMenu/Story_Intro_Media_Video_Mat.uasset" 664
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Widgets/MainMenu/LoadingScreenWidget.uasset" 665
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Widgets/New_Game_FadeIn.uasset" 666
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Mapa/MainMenu/LoadingScreen.umap" 667
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/SaveGame/PlayerStructure.uasset" 668
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Widgets/MainMenu/Continue_1-01.uasset" 669
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Widgets/MainMenu/Continue_2-01.uasset" 670
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Widgets/MainMenu/Continue_CLICKED-01.uasset" 671
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Widgets/MainMenu/Error_Sound1.uasset" 672
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Widgets/MainMenu/Exit_1-01.uasset" 673
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Widgets/MainMenu/Exit_2-01.uasset" 674
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Widgets/MainMenu/MainMenuSound.uasset" 675
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Widgets/MainMenu/NEW_Clicked-01.uasset" 676
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Widgets/MainMenu/NEW_Game_1-01.uasset" 677
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Widgets/MainMenu/NEW_Game_2-01.uasset" 678
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Widgets/MainMenu/Options_1-01.uasset" 679
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Widgets/MainMenu/Options_2-01-01.uasset" 680
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Widgets/MainMenu/Options_CLICKED-01.uasset" 681
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Widgets/MainMenu/Quit_Clicked-01.uasset" 682
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Widgets/MainMenu/MainMenuWidget.uasset" 683
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Mapa/MainMenu/MainMenu_BuiltData.uasset" 684
+"../../../Engine/Content/MapTemplates/Sky/M_BlackBackground.uasset" 685
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/NPC/Polo_Player.uasset" 686
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/NPC/Polo_Player_Mat.uasset" 687
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/NPC/Prizoner.uasset" 688
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/NPC/Prizoner_Mat.uasset" 689
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/NPC/Redneck__1_.uasset" 690
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/NPC/Redneck__1__Mat.uasset" 691
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/NPC/Scientist3_Dead.uasset" 692
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/NPC/Scientist3_Dead_Mat.uasset" 693
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/NPC/Scientist3.uasset" 694
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/NPC/Scientist3_Mat.uasset" 695
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/NPC/Soldier2.uasset" 696
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/NPC/Soldier2_Mat.uasset" 697
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Pre_Polish/ShootRobotIdle.uasset" 698
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Textures/Pre_Polish/ShootRobotIdle_Mat.uasset" 699
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Lights/Yellow.uasset" 700
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/StarterContent/Architecture/Wall_400x300.uasset" 701
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 702
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Mapa/MainMenu/MainMenu.umap" 703
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Mapa/MainMenu/Splash_Screen_BuiltData.uasset" 704
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Movies/NewMediaPlayer_Video.uasset" 705
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Movies/NewMediaPlayer_Video_Mat1.uasset" 706
+"../../../../../../Users/straja/Documents/Unreal Projects/OurGameBP/Content/Igra/Mapa/MainMenu/Splash_Screen.umap" 707
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 708
+"../../../Engine/Content/Maps/Entry.umap" 709

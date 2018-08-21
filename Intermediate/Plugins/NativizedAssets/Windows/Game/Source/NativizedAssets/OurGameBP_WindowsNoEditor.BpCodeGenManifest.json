@@ -1,0 +1,390 @@
+{
+	"manifestChunkId": -1,
+	"pluginName": "NativizedAssets",
+	"outputDir": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game",
+	"moduleDependencies": [
+		"Package'/Script/CoreUObject'",
+		"Package'/Script/Engine'",
+		"Package'/Script/ClothingSystemRuntime'",
+		"Package'/Script/InputCore'",
+		"Package'/Script/NavigationSystem'",
+		"Package'/Script/UMG'",
+		"Package'/Script/MovieScene'",
+		"Package'/Script/MovieSceneTracks'",
+		"Package'/Script/SlateCore'",
+		"Package'/Script/MediaAssets'",
+		"Package'/Script/AIModule'",
+		"Package'/Script/GameplayTasks'",
+		"Package'/Script/AudioPlatformConfiguration'",
+		"Package'/Script/PropertyPath'",
+		"Package'/Script/Slate'",
+		"Package'/Script/ClothingSystemRuntimeInterface'",
+		"Package'/Script/GameplayTags'"
+	],
+	"convertedAssets":
+	{
+		"/Game/Igra/SaveGame/PlayerStructure.PlayerStructure":
+		{
+			"assetType": "Class'/Script/Engine.UserDefinedStruct'",
+			"targetObjPath": "/Game/Igra/SaveGame/PlayerStructure.PlayerStructure",
+			"generatedHeaderPath": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/PlayerStructure__pf3180373992.h",
+			"generatedCppPath": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/PlayerStructure__pf3180373992.cpp"
+		},
+		"/Game/Igra/Igra.Igra_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Igra/Igra.Igra_C",
+			"generatedHeaderPath": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Igra__pf2999911482.h",
+			"generatedCppPath": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Igra__pf2999911482.cpp"
+		},
+		"/Game/Igra/Hero/OurHero.OurHero_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Igra/Hero/OurHero.OurHero_C",
+			"generatedHeaderPath": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/OurHero__pf3840320923.h",
+			"generatedCppPath": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/OurHero__pf3840320923.cpp"
+		},
+		"/Game/Igra/Hero/Camera2.Camera2_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Igra/Hero/Camera2.Camera2_C",
+			"generatedHeaderPath": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Camera2__pf3840320923.h",
+			"generatedCppPath": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Camera2__pf3840320923.cpp"
+		},
+		"/Game/Igra/Widgets/DeathMenu/GameOver.GameOver_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/Game/Igra/Widgets/DeathMenu/GameOver.GameOver_C",
+			"generatedHeaderPath": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/GameOver__pf534478733.h",
+			"generatedCppPath": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/GameOver__pf534478733.cpp"
+		},
+		"/Game/Igra/Oruzje/Ammunition/Grenade2.Grenade2_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Igra/Oruzje/Ammunition/Grenade2.Grenade2_C",
+			"generatedHeaderPath": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Grenade2__pf359902852.h",
+			"generatedCppPath": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Grenade2__pf359902852.cpp"
+		},
+		"/Game/Igra/Oruzje/Ammunition/Pistol_Bullet.Pistol_Bullet_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Igra/Oruzje/Ammunition/Pistol_Bullet.Pistol_Bullet_C",
+			"generatedHeaderPath": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Pistol_Bullet__pf359902852.h",
+			"generatedCppPath": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Pistol_Bullet__pf359902852.cpp"
+		},
+		"/Game/Igra/Oruzje/Ammunition/Uzi_Bullet1.Uzi_Bullet1_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Igra/Oruzje/Ammunition/Uzi_Bullet1.Uzi_Bullet1_C",
+			"generatedHeaderPath": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Uzi_Bullet1__pf359902852.h",
+			"generatedCppPath": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Uzi_Bullet1__pf359902852.cpp"
+		},
+		"/Game/Igra/Widgets/PauseMenu/PauseMenuBP.PauseMenuBP_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Igra/Widgets/PauseMenu/PauseMenuBP.PauseMenuBP_C",
+			"generatedHeaderPath": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/PauseMenuBP__pf2661533655.h",
+			"generatedCppPath": ""
+		},
+		"/Game/Igra/Widgets/HealthBar/HeroHealthCrosshair.HeroHealthCrosshair_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/Game/Igra/Widgets/HealthBar/HeroHealthCrosshair.HeroHealthCrosshair_C",
+			"generatedHeaderPath": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/HeroHealthCrosshair__pf1898636992.h",
+			"generatedCppPath": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/HeroHealthCrosshair__pf1898636992.cpp"
+		},
+		"/Game/Igra/Widgets/Objectives.Objectives_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/Game/Igra/Widgets/Objectives.Objectives_C",
+			"generatedHeaderPath": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Objectives__pf3966595016.h",
+			"generatedCppPath": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Objectives__pf3966595016.cpp"
+		},
+		"/Game/Igra/Widgets/PlayerDamage.PlayerDamage_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/Game/Igra/Widgets/PlayerDamage.PlayerDamage_C",
+			"generatedHeaderPath": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/PlayerDamage__pf3966595016.h",
+			"generatedCppPath": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/PlayerDamage__pf3966595016.cpp"
+		},
+		"/Game/Igra/Widgets/WeaponHud/Weapon_HeatWidget.Weapon_HeatWidget_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/Game/Igra/Widgets/WeaponHud/Weapon_HeatWidget.Weapon_HeatWidget_C",
+			"generatedHeaderPath": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Weapon_HeatWidget__pf1818634969.h",
+			"generatedCppPath": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Weapon_HeatWidget__pf1818634969.cpp"
+		},
+		"/Game/Igra/Oruzje/Grenade_PickUp.Grenade_PickUp_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Igra/Oruzje/Grenade_PickUp.Grenade_PickUp_C",
+			"generatedHeaderPath": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Grenade_PickUp__pf3971847853.h",
+			"generatedCppPath": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Grenade_PickUp__pf3971847853.cpp"
+		},
+		"/Game/Igra/Widgets/GlobalPickUP.GlobalPickUP_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/Game/Igra/Widgets/GlobalPickUP.GlobalPickUP_C",
+			"generatedHeaderPath": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/GlobalPickUP__pf3966595016.h",
+			"generatedCppPath": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/GlobalPickUP__pf3966595016.cpp"
+		},
+		"/Game/Igra/Oruzje/Pistol.Pistol_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Igra/Oruzje/Pistol.Pistol_C",
+			"generatedHeaderPath": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Pistol__pf3971847853.h",
+			"generatedCppPath": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Pistol__pf3971847853.cpp"
+		},
+		"/Game/Igra/Oruzje/PlasmaGun.PlasmaGun_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Igra/Oruzje/PlasmaGun.PlasmaGun_C",
+			"generatedHeaderPath": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/PlasmaGun__pf3971847853.h",
+			"generatedCppPath": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/PlasmaGun__pf3971847853.cpp"
+		},
+		"/Game/Igra/Oruzje/Uzi.Uzi_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Igra/Oruzje/Uzi.Uzi_C",
+			"generatedHeaderPath": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Uzi__pf3971847853.h",
+			"generatedCppPath": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Uzi__pf3971847853.cpp"
+		},
+		"/Game/Igra/Widgets/MainMenu/MainMenuWidget.MainMenuWidget_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/Game/Igra/Widgets/MainMenu/MainMenuWidget.MainMenuWidget_C",
+			"generatedHeaderPath": "",
+			"generatedCppPath": ""
+		},
+		"/Game/Igra/Widgets/MainMenu/LoadingScreenWidget.LoadingScreenWidget_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/Game/Igra/Widgets/MainMenu/LoadingScreenWidget.LoadingScreenWidget_C",
+			"generatedHeaderPath": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/LoadingScreenWidget__pf3267801299.h",
+			"generatedCppPath": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/LoadingScreenWidget__pf3267801299.cpp"
+		},
+		"/Game/Igra/Widgets/New_Game_FadeIn.New_Game_FadeIn_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/Game/Igra/Widgets/New_Game_FadeIn.New_Game_FadeIn_C",
+			"generatedHeaderPath": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/New_Game_FadeIn__pf3966595016.h",
+			"generatedCppPath": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/New_Game_FadeIn__pf3966595016.cpp"
+		},
+		"/Game/Igra/Widgets/PauseMenu/PauseMenu.PauseMenu_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/Game/Igra/Widgets/PauseMenu/PauseMenu.PauseMenu_C",
+			"generatedHeaderPath": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/PauseMenu__pf2661533655.h",
+			"generatedCppPath": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/PauseMenu__pf2661533655.cpp"
+		},
+		"/Game/Igra/Widgets/MainMenu/Bimba_Games.Bimba_Games_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/Game/Igra/Widgets/MainMenu/Bimba_Games.Bimba_Games_C",
+			"generatedHeaderPath": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Bimba_Games__pf3267801299.h",
+			"generatedCppPath": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Bimba_Games__pf3267801299.cpp"
+		},
+		"/Game/Igra/Widgets/Subtitles.Subtitles_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/Game/Igra/Widgets/Subtitles.Subtitles_C",
+			"generatedHeaderPath": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Subtitles__pf3966595016.h",
+			"generatedCppPath": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Subtitles__pf3966595016.cpp"
+		},
+		"/Game/Igra/Widgets/GlobalInteractE.GlobalInteractE_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/Game/Igra/Widgets/GlobalInteractE.GlobalInteractE_C",
+			"generatedHeaderPath": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/GlobalInteractE__pf3966595016.h",
+			"generatedCppPath": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/GlobalInteractE__pf3966595016.cpp"
+		},
+		"/Game/Igra/Widgets/FadeIN_FadeOut.FadeIN_FadeOut_C":
+		{
+			"assetType": "Class'/Script/UMGEditor.WidgetBlueprint'",
+			"targetObjPath": "/Game/Igra/Widgets/FadeIN_FadeOut.FadeIN_FadeOut_C",
+			"generatedHeaderPath": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/FadeIN_FadeOut__pf3966595016.h",
+			"generatedCppPath": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/FadeIN_FadeOut__pf3966595016.cpp"
+		},
+		"/Game/Igra/Oruzje/Explosions/Barrel.Barrel_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Igra/Oruzje/Explosions/Barrel.Barrel_C",
+			"generatedHeaderPath": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Barrel__pf1334495665.h",
+			"generatedCppPath": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Barrel__pf1334495665.cpp"
+		},
+		"/Game/Igra/Oruzje/Ammunition/Robot_Laser_Tank_Matinee.Robot_Laser_Tank_Matinee_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Igra/Oruzje/Ammunition/Robot_Laser_Tank_Matinee.Robot_Laser_Tank_Matinee_C",
+			"generatedHeaderPath": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Robot_Laser_Tank_Matinee__pf359902852.h",
+			"generatedCppPath": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Robot_Laser_Tank_Matinee__pf359902852.cpp"
+		},
+		"/Game/Igra/Oruzje/Ammunition/Robot_Laser_Tank.Robot_Laser_Tank_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Igra/Oruzje/Ammunition/Robot_Laser_Tank.Robot_Laser_Tank_C",
+			"generatedHeaderPath": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Robot_Laser_Tank__pf359902852.h",
+			"generatedCppPath": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Robot_Laser_Tank__pf359902852.cpp"
+		},
+		"/Game/Igra/Oruzje/Ammunition/Robot_Laser_Fast.Robot_Laser_Fast_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Igra/Oruzje/Ammunition/Robot_Laser_Fast.Robot_Laser_Fast_C",
+			"generatedHeaderPath": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Robot_Laser_Fast__pf359902852.h",
+			"generatedCppPath": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Robot_Laser_Fast__pf359902852.cpp"
+		},
+		"/Game/Igra/Oruzje/Ammunition/Robot_Laser2.Robot_Laser2_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Igra/Oruzje/Ammunition/Robot_Laser2.Robot_Laser2_C",
+			"generatedHeaderPath": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Robot_Laser2__pf359902852.h",
+			"generatedCppPath": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Robot_Laser2__pf359902852.cpp"
+		},
+		"/Game/Igra/Oruzje/Ammunition/Robot_Laser.Robot_Laser_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Igra/Oruzje/Ammunition/Robot_Laser.Robot_Laser_C",
+			"generatedHeaderPath": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Robot_Laser__pf359902852.h",
+			"generatedCppPath": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Robot_Laser__pf359902852.cpp"
+		},
+		"/Game/Igra/Oruzje/Ammunition/Plasma_Bullet.Plasma_Bullet_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Igra/Oruzje/Ammunition/Plasma_Bullet.Plasma_Bullet_C",
+			"generatedHeaderPath": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Plasma_Bullet__pf359902852.h",
+			"generatedCppPath": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Plasma_Bullet__pf359902852.cpp"
+		},
+		"/Game/Igra/Oruzje/Ammunition/MachineGun_Bullet.MachineGun_Bullet_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Igra/Oruzje/Ammunition/MachineGun_Bullet.MachineGun_Bullet_C",
+			"generatedHeaderPath": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/MachineGun_Bullet__pf359902852.h",
+			"generatedCppPath": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/MachineGun_Bullet__pf359902852.cpp"
+		},
+		"/Game/Igra/Oruzje/Ammunition/Boss_Turret_Laser.Boss_Turret_Laser_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Igra/Oruzje/Ammunition/Boss_Turret_Laser.Boss_Turret_Laser_C",
+			"generatedHeaderPath": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Boss_Turret_Laser__pf359902852.h",
+			"generatedCppPath": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Boss_Turret_Laser__pf359902852.cpp"
+		},
+		"/Game/Igra/Oruzje/PassCodeKey.PassCodeKey_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Igra/Oruzje/PassCodeKey.PassCodeKey_C",
+			"generatedHeaderPath": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/PassCodeKey__pf3971847853.h",
+			"generatedCppPath": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/PassCodeKey__pf3971847853.cpp"
+		},
+		"/Game/Igra/Door/DoorBasic.DoorBasic_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Igra/Door/DoorBasic.DoorBasic_C",
+			"generatedHeaderPath": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/DoorBasic__pf3537813776.h",
+			"generatedCppPath": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/DoorBasic__pf3537813776.cpp"
+		},
+		"/Game/Igra/AI/Robot_Shoot/Robot_Shoot.Robot_Shoot_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Igra/AI/Robot_Shoot/Robot_Shoot.Robot_Shoot_C",
+			"generatedHeaderPath": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Robot_Shoot__pf821169853.h",
+			"generatedCppPath": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Robot_Shoot__pf821169853.cpp"
+		},
+		"/Game/Igra/AI/Robot_Shoot/RobotShootController.RobotShootController_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Igra/AI/Robot_Shoot/RobotShootController.RobotShootController_C",
+			"generatedHeaderPath": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/RobotShootController__pf821169853.h",
+			"generatedCppPath": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/RobotShootController__pf821169853.cpp"
+		},
+		"/Game/Igra/AI/BasicAIMeele/GetLastPlayerLocation.GetLastPlayerLocation_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Igra/AI/BasicAIMeele/GetLastPlayerLocation.GetLastPlayerLocation_C",
+			"generatedHeaderPath": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/GetLastPlayerLocation__pf3674726080.h",
+			"generatedCppPath": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/GetLastPlayerLocation__pf3674726080.cpp"
+		},
+		"/Game/Igra/AI/FindRandomLocation.FindRandomLocation_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Igra/AI/FindRandomLocation.FindRandomLocation_C",
+			"generatedHeaderPath": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/FindRandomLocation__pf547219974.h",
+			"generatedCppPath": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/FindRandomLocation__pf547219974.cpp"
+		},
+		"/Game/Igra/AI/Robot_Shoot/RobotShootMoveTo.RobotShootMoveTo_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Igra/AI/Robot_Shoot/RobotShootMoveTo.RobotShootMoveTo_C",
+			"generatedHeaderPath": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/RobotShootMoveTo__pf821169853.h",
+			"generatedCppPath": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/RobotShootMoveTo__pf821169853.cpp"
+		},
+		"/Game/Igra/AI/Robot_Mini_Jump/RobotMiniJumpController.RobotMiniJumpController_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Igra/AI/Robot_Mini_Jump/RobotMiniJumpController.RobotMiniJumpController_C",
+			"generatedHeaderPath": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/RobotMiniJumpController__pf2467849032.h",
+			"generatedCppPath": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/RobotMiniJumpController__pf2467849032.cpp"
+		},
+		"/Game/Igra/AI/Robot_Mini_Jump/RobotJumpMoveTo.RobotJumpMoveTo_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Igra/AI/Robot_Mini_Jump/RobotJumpMoveTo.RobotJumpMoveTo_C",
+			"generatedHeaderPath": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/RobotJumpMoveTo__pf2467849032.h",
+			"generatedCppPath": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/RobotJumpMoveTo__pf2467849032.cpp"
+		},
+		"/Game/Igra/AI/Robot_Mini_Jump/RobotMiniJump.RobotMiniJump_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Igra/AI/Robot_Mini_Jump/RobotMiniJump.RobotMiniJump_C",
+			"generatedHeaderPath": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/RobotMiniJump__pf2467849032.h",
+			"generatedCppPath": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/RobotMiniJump__pf2467849032.cpp"
+		},
+		"/Game/Igra/AI/BasicAIMeele/Zombie.Zombie_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Igra/AI/BasicAIMeele/Zombie.Zombie_C",
+			"generatedHeaderPath": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/Zombie__pf3674726080.h",
+			"generatedCppPath": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/Zombie__pf3674726080.cpp"
+		},
+		"/Game/Igra/AI/BasicAIMeele/BaseClassAIController.BaseClassAIController_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Igra/AI/BasicAIMeele/BaseClassAIController.BaseClassAIController_C",
+			"generatedHeaderPath": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/BaseClassAIController__pf3674726080.h",
+			"generatedCppPath": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/BaseClassAIController__pf3674726080.cpp"
+		},
+		"/Game/Igra/AI/BasicAIMeele/MovetoPlayerBasicMeele.MovetoPlayerBasicMeele_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Igra/AI/BasicAIMeele/MovetoPlayerBasicMeele.MovetoPlayerBasicMeele_C",
+			"generatedHeaderPath": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/MovetoPlayerBasicMeele__pf3674726080.h",
+			"generatedCppPath": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/MovetoPlayerBasicMeele__pf3674726080.cpp"
+		},
+		"/Game/Igra/AI/BasicAIMeele/BaseMeeleAttack.BaseMeeleAttack_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Igra/AI/BasicAIMeele/BaseMeeleAttack.BaseMeeleAttack_C",
+			"generatedHeaderPath": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/BaseMeeleAttack__pf3674726080.h",
+			"generatedCppPath": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Private/BaseMeeleAttack__pf3674726080.cpp"
+		},
+		"/Game/Blueprints/UMGtoLevelBP.UMGtoLevelBP_C":
+		{
+			"assetType": "Class'/Script/Engine.Blueprint'",
+			"targetObjPath": "/Game/Blueprints/UMGtoLevelBP.UMGtoLevelBP_C",
+			"generatedHeaderPath": "C:/Users/straja/Documents/Unreal Projects/OurGameBP/Intermediate/Plugins/NativizedAssets/Windows/Game/Source/NativizedAssets/Public/UMGtoLevelBP__pf2132744816.h",
+			"generatedCppPath": ""
+		}
+	},
+	"unconvertedDependencies":
+	{
+	},
+	"nativizationOptions":
+	{
+		"platformName": "WindowsNoEditor",
+		"serverOnlyPlatform": false,
+		"clientOnlyPlatform": false,
+		"bExcludeMonolithicHeaders": false,
+		"excludedModules": [],
+		"excludedAssets": [],
+		"excludedFolderPaths": []
+	}
+}
