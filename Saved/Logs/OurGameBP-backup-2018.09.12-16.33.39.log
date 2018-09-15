@@ -1,0 +1,1351 @@
+﻿Log file open, 09/12/18 13:43:42
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: OurGameBP
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.302211
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.400s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4302132
+LogInit: Engine Version: 4.20.2-4302132+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: AMD Ryzen 5 2400G with Radeon Vega Graphics    , GPU: Radeon RX 560 Series
+LogInit: Compiled (64-bit): Aug 21 2018 02:06:06
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.179s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.09.12-11.43.43:230][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.12-11.43.43:230][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.09.12-11.43.43:279][  0]LogHAL: Display: Platform has ~ 8 GB [8536748032 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.09.12-11.43.43:279][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.09.12-11.43.43:280][  0]LogInit: Going up to parent DeviceProfile []
+[2018.09.12-11.43.43:280][  0]LogInit: Computer: DESKTOP-2UN8804
+[2018.09.12-11.43.43:280][  0]LogInit: User: Bogdan
+[2018.09.12-11.43.43:280][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.09.12-11.43.43:280][  0]LogInit: High frequency timer resolution =3.509038 MHz
+[2018.09.12-11.43.43:280][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2018.09.12-11.43.43:280][  0]LogMemory: Platform Memory Stats for Windows
+[2018.09.12-11.43.43:280][  0]LogMemory: Process Physical Memory: 100.64 MB used, 100.64 MB peak
+[2018.09.12-11.43.43:280][  0]LogMemory: Process Virtual Memory: 90.91 MB used, 90.91 MB peak
+[2018.09.12-11.43.43:280][  0]LogMemory: Physical Memory: 4048.17 MB used,  4093.11 MB free, 8141.28 MB total
+[2018.09.12-11.43.43:280][  0]LogMemory: Virtual Memory: 543.62 MB used,  4093.11 MB free, 134217728.00 MB total
+[2018.09.12-11.43.43:300][  0]LogInit: Using OS detected language (en-US).
+[2018.09.12-11.43.43:300][  0]LogInit: Using OS detected locale (en-US).
+[2018.09.12-11.43.43:301][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.09.12-11.43.43:965][  0]LogStreaming: Display: Took  0.665s to InitEngineTextLocalization.
+[2018.09.12-11.43.43:965][  0]LogInit: Setting process to per monitor DPI aware
+[2018.09.12-11.43.44:011][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.09.12-11.43.44:011][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.09.12-11.43.44:395][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.09.12-11.43.44:395][  0]LogD3D11RHI: D3D11 adapters:
+[2018.09.12-11.43.44:473][  0]LogD3D11RHI:    0. 'Radeon RX 560 Series' (Feature Level 11_0)
+[2018.09.12-11.43.44:473][  0]LogD3D11RHI:       1993/0/4070 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2018.09.12-11.43.44:475][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.09.12-11.43.44:475][  0]LogD3D11RHI:       0/0/4070 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.09.12-11.43.44:475][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.09.12-11.43.44:487][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.09.12-11.43.44:487][  0]LogD3D11RHI:     GPU DeviceId: 0x67ef (for the marketing name, search the web for "GPU Device Id")
+[2018.09.12-11.43.44:487][  0]LogWindows: EnumDisplayDevices:
+[2018.09.12-11.43.44:487][  0]LogWindows:    0. 'Radeon RX 560 Series' (P:1 D:1)
+[2018.09.12-11.43.44:488][  0]LogWindows:    1. 'Radeon RX 560 Series' (P:0 D:0)
+[2018.09.12-11.43.44:488][  0]LogWindows:    2. 'Radeon RX 560 Series' (P:0 D:0)
+[2018.09.12-11.43.44:488][  0]LogWindows:    3. 'Radeon RX 560 Series' (P:0 D:0)
+[2018.09.12-11.43.44:488][  0]LogWindows:    4. 'Radeon RX 560 Series' (P:0 D:0)
+[2018.09.12-11.43.44:489][  0]LogWindows:    5. 'Radeon RX 560 Series' (P:0 D:0)
+[2018.09.12-11.43.44:489][  0]LogWindows: DebugString: FoundDriverCount:6 
+[2018.09.12-11.43.44:489][  0]LogD3D11RHI:     Adapter Name: Radeon RX 560 Series
+[2018.09.12-11.43.44:489][  0]LogD3D11RHI:   Driver Version: Adrenalin 18.8.1 (internal:24.20.13001.1010, unified:24.20.13001.1010)
+[2018.09.12-11.43.44:489][  0]LogD3D11RHI:      Driver Date: 8-2-2018
+[2018.09.12-11.43.44:489][  0]LogRHI: Texture pool is 1395 MB (70% of 1993 MB)
+[2018.09.12-11.43.44:560][  0]LogD3D11RHI: Async texture creation enabled
+[2018.09.12-11.43.44:578][  0]LogD3D11RHI: GPU Timing Frequency: 25.000000 (Debug: 2 1)
+[2018.09.12-11.43.44:588][  0]LogShaderCompilers: Guid format shader working directory is -19 characters bigger than the processId version (../../../../../../Users/Bogdan/Documents/Unreal Projects/OurGameBP/Intermediate/Shaders/WorkingDirectory/7836/).
+[2018.09.12-11.43.44:588][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Bogdan/AppData/Local/Temp/UnrealShaderWorkingDir/F86D792C4F69EA6029507E833F893EF9/'.
+[2018.09.12-11.43.45:042][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.09.12-11.43.45:064][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.09.12-11.43.45:084][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.09.12-11.43.45:110][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.09.12-11.43.45:126][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.09.12-11.43.45:148][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.09.12-11.43.45:167][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.09.12-11.43.45:194][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.09.12-11.43.45:204][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.09.12-11.43.45:372][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.12-11.43.45:372][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.12-11.43.45:372][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.12-11.43.45:372][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.12-11.43.45:372][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.12-11.43.45:372][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.12-11.43.45:372][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.12-11.43.45:372][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.12-11.43.45:372][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.12-11.43.45:372][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.12-11.43.45:372][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.12-11.43.45:372][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.12-11.43.45:372][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.12-11.43.45:372][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.12-11.43.45:372][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.12-11.43.45:372][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.12-11.43.45:372][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.12-11.43.45:372][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.09.12-11.43.45:374][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.09.12-11.43.45:455][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.12-11.43.45:455][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.09.12-11.43.45:495][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.12-11.43.45:495][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.09.12-11.43.45:515][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.09.12-11.43.45:530][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.09.12-11.43.45:547][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.09.12-11.43.45:563][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.09.12-11.43.45:575][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.09.12-11.43.45:575][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.09.12-11.43.45:676][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.09.12-11.43.45:676][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.09.12-11.43.45:676][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.09.12-11.43.47:143][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.09.12-11.43.47:236][  0]LogDerivedDataCache: Loaded boot cache 0.09s 71MB C:/Users/Bogdan/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.09.12-11.43.47:237][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Bogdan/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.09.12-11.43.47:237][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Bogdan/Documents/Unreal Projects/OurGameBP/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.09.12-11.43.47:237][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.09.12-11.43.47:237][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Bogdan/Documents/Unreal Projects/OurGameBP/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.09.12-11.43.47:237][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.09.12-11.43.47:259][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.09.12-11.43.47:272][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Bogdan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.09.12-11.43.47:272][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.09.12-11.43.47:272][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.09.12-11.43.47:308][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.09.12-11.43.47:310][  0]LogSlate: Using FreeType 2.6.0
+[2018.09.12-11.43.47:311][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.09.12-11.43.47:437][  0]LogAssetRegistry: FAssetRegistry took 0.0292 seconds to start up
+[2018.09.12-11.43.48:092][  0]LogInit: Selected Device Profile: [Windows]
+[2018.09.12-11.43.48:418][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.09.12-11.43.48:422][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.09.12-11.43.48:422][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.09.12-11.43.48:422][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.09.12-11.43.48:422][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.09.12-11.43.48:442][  0]LogNetVersion: OurGameBP 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2791728059)
+[2018.09.12-11.43.49:367][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.223739 seconds
+[2018.09.12-11.43.49:381][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.09.12-11.43.49:381][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2018.09.12-11.43.49:381][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.09.12-11.43.50:746][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.09.12-11.43.50:760][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.09.12-11.43.50:945][  0]SourceControl: Source control is disabled
+[2018.09.12-11.43.52:449][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.09.12-11.43.52:540][  0]LogOcInput: OculusInput pre-init called
+[2018.09.12-11.43.52:629][  0]LogEngine: Initializing Engine...
+[2018.09.12-11.43.52:630][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.09.12-11.43.52:632][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.09.12-11.43.52:633][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.12-11.43.52:633][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.09.12-11.43.52:633][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.12-11.43.52:901][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.09.12-11.43.52:943][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.09.12-11.43.52:959][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.09.12-11.43.52:991][  0]LogInit: FAudioDevice initialized.
+[2018.09.12-11.43.52:991][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.09.12-11.43.53:140][  0]LogDerivedDataCache: Saved boot cache 0.15s 71MB C:/Users/Bogdan/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.09.12-11.43.53:153][  0]LogInit: Texture streaming: Enabled
+[2018.09.12-11.43.53:191][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.09.12-11.43.53:211][  0]LogInit: Transaction tracking system initialized
+[2018.09.12-11.43.53:244][  0]BlueprintLog: New page: Editor Load
+[2018.09.12-11.43.53:379][  0]LocalizationService: Localization service is disabled
+[2018.09.12-11.43.53:843][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.09.12-11.43.53:843][  0]LogCook: Display: Mobile HDR setting 1
+[2018.09.12-11.43.53:843][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.09.12-11.43.53:843][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.09.12-11.43.53:843][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.09.12-11.43.53:844][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.09.12-11.43.53:844][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.09.12-11.43.54:094][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Bogdan/Documents/Unreal Projects/OurGameBP/Content/' took 0.06s
+[2018.09.12-11.43.54:094][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Bogdan/Documents/Unreal Projects/OurGameBP/Content/Maps/Mapa1.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.09.12-11.43.54:094][  0]LightingResults: New page: Lighting Build
+[2018.09.12-11.43.54:098][  0]MapCheck: New page: Map Check
+[2018.09.12-11.43.54:098][  0]LightingResults: New page: Lighting Build
+[2018.09.12-11.44.24:044][  0]LogAIModule: Creating AISystem for world Mapa1
+[2018.09.12-11.44.24:154][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.09.12-11.44.24:191][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.09.12-11.44.24:359][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 167.316ms to complete.
+[2018.09.12-11.44.24:359][  0]LogFileHelpers: Loading map 'Mapa1' took 30.266
+[2018.09.12-11.44.25:257][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.12-11.44.25:288][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.09.12-11.44.25:350][  0]LogCollectionManager: Loaded 0 collections in 0.003634 seconds
+[2018.09.12-11.44.25:482][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Bogdan/Documents/Unreal Projects/OurGameBP/Saved/Collections/' took 0.01s
+[2018.09.12-11.44.25:482][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Bogdan/Documents/Unreal Projects/OurGameBP/Content/Developers/Bogdan/Collections/' took 0.01s
+[2018.09.12-11.44.25:482][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Bogdan/Documents/Unreal Projects/OurGameBP/Content/Collections/' took 0.01s
+[2018.09.12-11.44.25:482][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.09.12-11.44.25:494][  0]LogContentBrowser: Native class hierarchy populated in 0.0116 seconds. Added 2572 classes and 603 folders.
+[2018.09.12-11.44.25:525][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.09.12-11.44.27:535][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.09.12-11.44.27:599][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.09.12-11.44.27:842][  0]LogSlate: Took 0.000559 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.09.12-11.44.27:845][  0]LogSlate: Took 0.000295 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.09.12-11.44.28:622][  0]LogRenderer: Reallocating scene render targets to support 1212x520 Format 10 NumSamples 1 (Frame:1).
+[2018.09.12-11.44.28:957][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.09.12-11.44.28:957][  0]LogLoad: (Engine Initialization) Total time: 49.67 seconds
+[2018.09.12-11.44.28:958][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.09.12-11.44.29:034][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.09.12-11.44.29:163][  2]LogAssetRegistry: Asset discovery search completed in 41.7497 seconds
+[2018.09.12-11.44.29:167][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.09.12-11.44.29:167][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000101 seconds (updated 0 objects)
+[2018.09.12-11.44.30:552][  6]LogSlate: Took 0.061829 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.12-11.44.41:837][202]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-11.44.42:074][210]LogAssetEditorManager: Opening Asset editor for LevelSequence /Game/LevSeq_6.LevSeq_6
+[2018.09.12-11.44.42:534][210]LogSlate: Took 0.024718 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.09.12-11.45.12:994][874]LogEditorViewport: Clicking on Actor (LMB): CineCameraActor (CineCamera6)
+[2018.09.12-11.45.13:286][874]LogEditorViewport: Clicking on Actor (context menu): CineCameraActor (CineCamera6)
+[2018.09.12-11.45.13:379][874]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-11.45.15:362][963]LogSlate: Took 0.022566 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.09.12-11.45.17:436][ 75]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-11.46.50:299][ 53]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalBuilding)
+[2018.09.12-11.46.55:384][346]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-11.47.21:588][921]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-11.47.25:755][150]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalBuilding)
+[2018.09.12-11.47.31:840][510]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-11.47.40:587][ 44]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-11.47.56:779][ 15]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-11.48.01:576][259]LogEditorViewport: Clicking on Actor (LMB): Brush (Brush)
+[2018.09.12-11.48.04:625][451]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-11.48.12:472][959]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalFlat)
+[2018.09.12-11.48.16:822][212]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-11.48.48:090][ 62]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalFlat)
+[2018.09.12-11.48.48:899][103]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-11.48.55:595][509]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalFlat2)
+[2018.09.12-11.48.56:829][581]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-11.49.10:399][377]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-11.49.17:837][830]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-11.49.39:754][145]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalFlat3)
+[2018.09.12-11.49.40:578][189]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-11.49.56:890][128]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-11.50.01:526][402]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-11.50.13:532][130]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-11.50.17:937][369]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalFlat4)
+[2018.09.12-11.50.19:422][455]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-11.50.36:019][402]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-11.50.45:133][926]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-11.50.46:907][ 14]LogEditorViewport: Clicking on Actor (LMB): Brush (Brush)
+[2018.09.12-11.50.57:563][583]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-11.51.00:715][763]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevSeq_6" FILE="../../../../../../Users/Bogdan/Documents/Unreal Projects/OurGameBP/Content/LevSeq_6.uasset" SILENT=true
+[2018.09.12-11.51.01:396][763]LogSavePackage: Moving '../../../../../../Users/Bogdan/Documents/Unreal Projects/OurGameBP/Saved/LevSeq_66F36F2824382E199080649B90A69EA51.tmp' to '../../../../../../Users/Bogdan/Documents/Unreal Projects/OurGameBP/Content/LevSeq_6.uasset'
+[2018.09.12-11.51.02:754][841]LogSlate: Took 0.001000 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.09.12-11.51.27:917][191]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-11.51.36:726][678]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-11.51.57:626][811]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GroundBIG2)
+[2018.09.12-11.51.58:433][846]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalHouse)
+[2018.09.12-11.52.15:248][813]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalHouse)
+[2018.09.12-11.52.21:431][168]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalHouse2)
+[2018.09.12-11.53.01:732][479]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-11.53.33:872][380]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (HouseItal6)
+[2018.09.12-11.53.54:193][510]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GroundBIG2)
+[2018.09.12-11.53.54:684][531]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GroundBIG2)
+[2018.09.12-11.53.55:135][553]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalBuilding)
+[2018.09.12-11.53.55:747][580]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (HouseItal14)
+[2018.09.12-11.54.15:625][702]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalFlat)
+[2018.09.12-11.54.18:469][855]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GroundBIG2)
+[2018.09.12-11.54.19:150][883]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalFlat5)
+[2018.09.12-11.54.34:210][668]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalHouse3)
+[2018.09.12-11.54.39:781][959]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalFlat5)
+[2018.09.12-11.54.48:468][392]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-11.55.06:928][357]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-11.55.13:809][844]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalHouse2)
+[2018.09.12-11.55.36:484][534]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-11.55.52:985][437]LogEditorViewport: Clicking Background
+[2018.09.12-11.55.58:651][775]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalHouse8)
+[2018.09.12-11.56.14:132][657]LogEditorViewport: Clicking Background
+[2018.09.12-11.56.20:119][115]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalHouse4)
+[2018.09.12-11.56.26:472][507]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalHouse3)
+[2018.09.12-11.56.29:109][668]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GroundBIG2)
+[2018.09.12-11.56.29:405][680]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GroundBIG2)
+[2018.09.12-11.56.38:783][253]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalBuilding)
+[2018.09.12-11.56.57:041][351]LogEditorViewport: Clicking Background
+[2018.09.12-11.56.57:676][397]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalBuilding2)
+[2018.09.12-11.57.01:418][621]LogEditorViewport: Clicking Background
+[2018.09.12-11.57.10:199][299]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalFlat)
+[2018.09.12-11.57.29:812][475]LogEditorViewport: Clicking Background
+[2018.09.12-11.57.36:819][ 34]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-11.57.37:190][ 38]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevSeq_6" FILE="../../../../../../Users/Bogdan/Documents/Unreal Projects/OurGameBP/Content/LevSeq_6.uasset" SILENT=true
+[2018.09.12-11.57.37:822][ 38]LogSavePackage: Moving '../../../../../../Users/Bogdan/Documents/Unreal Projects/OurGameBP/Saved/LevSeq_61FA1D98E48F965F868BE6B840C5155C8.tmp' to '../../../../../../Users/Bogdan/Documents/Unreal Projects/OurGameBP/Content/LevSeq_6.uasset'
+[2018.09.12-11.57.39:005][123]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalHouse)
+[2018.09.12-11.58.12:480][ 83]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalFlat8)
+[2018.09.12-11.58.28:387][ 46]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GroundBIG2)
+[2018.09.12-11.58.29:208][ 88]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalHouse17)
+[2018.09.12-11.58.33:481][339]Cmd: DELETE
+[2018.09.12-11.58.33:481][339]Cmd: ACTOR DELETE
+[2018.09.12-11.58.33:578][339]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-11.58.33:960][339]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.12-11.58.33:989][339]LogEditorActor: Deleted 1 Actors (0.499 secs)
+[2018.09.12-11.58.39:116][723]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-11.58.54:782][951]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-11.59.03:293][600]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-11.59.14:302][213]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalFlat2)
+[2018.09.12-11.59.18:124][404]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-11.59.28:345][  5]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalFlat11)
+[2018.09.12-11.59.29:478][ 80]Cmd: DELETE
+[2018.09.12-11.59.29:479][ 80]Cmd: ACTOR DELETE
+[2018.09.12-11.59.29:502][ 80]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.12-11.59.29:528][ 80]LogEditorActor: Deleted 1 Actors (0.048 secs)
+[2018.09.12-11.59.37:888][541]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-11.59.38:035][553]LogActorFactory: Actor Factory created Cube
+[2018.09.12-11.59.38:041][553]LogActorFactory: Actor Factory created Cube
+[2018.09.12-11.59.39:033][621]LogActorFactory: Actor Factory created Cube
+[2018.09.12-11.59.40:439][698]Cmd: DELETE
+[2018.09.12-11.59.40:439][698]Cmd: ACTOR DELETE
+[2018.09.12-11.59.40:454][698]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.12-11.59.40:478][698]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2018.09.12-11.59.41:062][738]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalFlat2)
+[2018.09.12-11.59.48:062][129]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-11.59.49:281][193]LogMaterial: Display: Missing cached shader map for material frontend-large_Mat, compiling. 
+[2018.09.12-11.59.49:365][193]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.09.12-11.59.49:365][193]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.09.12-11.59.49:365][193]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.09.12-12.00.15:474][509]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-12.00.53:217][886]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalFlat11)
+[2018.09.12-12.00.53:795][922]LogEditorViewport: Clicking Background
+[2018.09.12-12.00.56:277][123]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalFlat2)
+[2018.09.12-12.01.22:622][752]LogEditorViewport: Clicking Background
+[2018.09.12-12.01.26:232][ 42]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalBuilding2)
+[2018.09.12-12.01.43:148][ 55]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (HouseItal10)
+[2018.09.12-12.01.56:827][914]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalHouse2)
+[2018.09.12-12.01.57:362][941]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalHouse)
+[2018.09.12-12.02.25:887][636]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalHouse22)
+[2018.09.12-12.02.35:546][186]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GroundBIG2)
+[2018.09.12-12.02.40:192][460]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-12.03.20:527][955]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalHouse5)
+[2018.09.12-12.03.36:072][863]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalFlat2)
+[2018.09.12-12.03.43:874][304]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-12.03.52:624][833]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalHouse29)
+[2018.09.12-12.03.53:381][873]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalHouse28)
+[2018.09.12-12.03.55:519][992]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalHouse5)
+[2018.09.12-12.04.01:417][315]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalHouse31)
+[2018.09.12-12.04.02:226][360]Cmd: DELETE
+[2018.09.12-12.04.02:227][360]Cmd: ACTOR DELETE
+[2018.09.12-12.04.02:244][360]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.09.12-12.04.02:274][360]LogEditorActor: Deleted 1 Actors (0.047 secs)
+[2018.09.12-12.04.02:692][391]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalHouse33)
+[2018.09.12-12.04.10:945][895]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalHouse32)
+[2018.09.12-12.04.16:485][215]LogEditorViewport: Clicking on Actor (LMB): Brush (Brush)
+[2018.09.12-12.04.17:364][268]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-12.04.42:400][797]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (HouseItal6)
+[2018.09.12-12.04.43:225][835]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalFlat7)
+[2018.09.12-12.05.40:745][443]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-12.05.48:294][872]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalFlat2)
+[2018.09.12-12.05.49:624][949]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalFlat)
+[2018.09.12-12.05.50:304][982]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalBuilding)
+[2018.09.12-12.05.51:389][ 45]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalBuildingBIG)
+[2018.09.12-12.05.53:300][160]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalFlat3)
+[2018.09.12-12.05.54:497][232]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalFlat4)
+[2018.09.12-12.05.55:893][319]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalFlat3)
+[2018.09.12-12.05.57:387][403]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalBuilding2)
+[2018.09.12-12.05.58:087][442]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalHouse8)
+[2018.09.12-12.05.58:689][475]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalFlat4)
+[2018.09.12-12.05.59:109][494]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalFlat3)
+[2018.09.12-12.05.59:912][540]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalFlat5)
+[2018.09.12-12.06.02:935][722]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalHouse)
+[2018.09.12-12.06.03:653][764]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalHouse2)
+[2018.09.12-12.06.04:505][812]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalHouse)
+[2018.09.12-12.06.06:329][916]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalHouse28)
+[2018.09.12-12.06.06:984][950]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalHouse29)
+[2018.09.12-12.06.07:572][979]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalHouse32)
+[2018.09.12-12.06.08:745][ 46]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalHouse33)
+[2018.09.12-12.06.09:206][ 67]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalHouse30)
+[2018.09.12-12.06.09:872][105]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalFlat13)
+[2018.09.12-12.06.10:424][135]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalHouse5)
+[2018.09.12-12.06.11:080][172]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GroundBIG2)
+[2018.09.12-12.06.11:670][204]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GroundBIG2)
+[2018.09.12-12.06.12:299][243]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalHouse4)
+[2018.09.12-12.06.12:872][273]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalHouse3)
+[2018.09.12-12.06.13:342][293]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GroundBIG2)
+[2018.09.12-12.06.13:875][320]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalHouse6)
+[2018.09.12-12.06.15:111][392]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-12.06.32:424][449]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GroundBIG2)
+[2018.09.12-12.06.32:970][473]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalHouse3)
+[2018.09.12-12.06.33:816][518]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalHouse4)
+[2018.09.12-12.06.34:344][546]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalHouse5)
+[2018.09.12-12.06.34:932][576]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalHouse)
+[2018.09.12-12.06.35:510][608]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalHouse2)
+[2018.09.12-12.06.36:313][652]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalHouse)
+[2018.09.12-12.06.38:298][773]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalHouse2)
+[2018.09.12-12.06.39:424][837]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalHouse)
+[2018.09.12-12.06.42:792][ 42]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-12.06.43:147][ 59]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.43:184][ 60]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.43:208][ 61]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.43:228][ 62]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.43:267][ 64]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.43:288][ 65]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.43:330][ 67]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.43:358][ 68]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.43:380][ 69]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.43:422][ 70]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.43:456][ 71]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.43:483][ 72]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.43:506][ 73]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.43:529][ 74]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.43:557][ 75]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.43:606][ 77]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.43:629][ 78]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.43:672][ 80]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.43:695][ 81]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.43:717][ 82]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.43:735][ 83]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.43:774][ 85]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.43:793][ 86]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.43:851][ 89]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.43:877][ 90]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.43:911][ 91]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.43:936][ 92]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.43:962][ 93]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.43:985][ 94]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.44:026][ 95]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.44:052][ 96]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.44:078][ 97]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.44:106][ 98]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.44:147][ 99]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.44:184][100]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.44:215][101]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.44:245][102]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.44:264][103]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.44:285][104]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.44:321][106]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.44:343][107]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.44:411][109]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.44:463][110]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.44:521][111]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.44:554][112]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.44:597][113]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.44:637][114]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.44:678][115]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.44:720][116]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.44:756][117]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.44:804][118]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.44:828][119]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.44:855][120]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.44:875][121]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.44:892][122]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.44:917][123]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.44:948][124]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.44:981][125]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.45:009][126]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.45:044][127]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.45:078][128]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.45:145][129]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.45:189][130]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.45:229][131]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.45:253][132]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.45:282][133]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.45:309][134]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.45:328][135]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.45:351][136]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.45:369][137]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.45:420][138]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.45:451][139]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.45:481][140]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.45:501][141]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.45:529][142]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.45:572][143]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.45:607][144]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.45:638][145]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.45:665][146]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.45:692][147]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.45:724][148]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.45:747][149]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.45:771][150]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.45:790][151]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.45:810][152]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.45:831][153]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.45:852][154]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.45:871][155]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.45:891][156]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.45:909][157]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.45:928][158]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.45:952][159]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.45:972][160]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.45:992][161]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.46:031][163]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.46:054][164]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.46:073][165]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.46:094][166]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.46:169][170]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.46:235][174]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.46:256][175]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.46:275][176]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.46:295][177]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.46:371][179]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.46:400][180]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.46:527][181]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.46:577][182]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.46:597][183]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.46:621][184]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.46:639][185]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.46:660][186]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.46:689][187]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.46:718][188]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.46:732][189]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.46:747][190]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.46:761][191]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.46:776][192]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.46:789][193]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.46:819][195]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.46:872][198]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.46:885][199]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.46:920][202]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.47:070][216]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.47:157][224]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.47:171][225]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.47:182][226]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.47:197][227]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.47:222][228]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.47:267][230]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.47:279][231]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.49:178][379]Cmd: TRANSACTION UNDO
+[2018.09.12-12.06.49:178][379]LogEditorTransaction: Undo Animatable Property Changed
+[2018.09.12-12.06.50:143][436]Cmd: TRANSACTION UNDO
+[2018.09.12-12.06.50:143][436]LogEditorTransaction: Undo Delete Node
+[2018.09.12-12.06.52:845][583]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-12.06.53:089][595]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.53:146][597]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.53:170][598]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.53:216][599]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.53:244][600]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.53:287][601]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.53:323][602]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.53:348][603]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.53:370][604]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.53:462][607]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.53:507][608]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.53:534][609]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.53:568][610]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.53:607][611]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.53:635][612]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.53:664][613]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.53:694][614]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.53:724][615]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.53:746][616]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.53:767][617]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.53:785][618]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.53:824][620]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.53:845][621]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.53:920][625]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.53:940][626]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.53:981][628]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.54:020][630]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.54:061][632]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.54:099][634]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.54:189][639]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.54:208][640]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.54:227][641]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.54:319][645]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.54:355][646]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.54:391][647]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.54:416][648]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.54:439][649]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.54:464][650]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.54:559][653]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.54:596][654]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.54:657][655]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.54:688][656]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.54:728][657]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.54:758][658]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.54:797][659]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.54:826][660]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.54:858][661]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.54:885][662]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.54:914][663]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.54:951][664]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.54:976][665]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.54:995][666]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.55:017][667]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.55:035][668]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.55:056][669]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.55:078][670]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.55:119][671]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.55:181][672]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.55:215][673]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.55:243][674]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.55:268][675]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.55:295][676]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.55:331][677]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.55:407][678]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.55:455][679]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.55:486][680]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.55:513][681]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.55:543][682]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.55:576][683]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.55:608][684]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.55:648][685]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.55:692][686]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.55:718][687]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.55:750][688]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.55:782][689]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.55:821][690]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.55:852][691]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.55:885][692]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.55:914][693]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.55:937][694]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.55:972][695]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.55:996][696]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.56:019][697]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.56:044][698]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.56:062][699]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.56:082][700]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.56:103][701]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.56:130][702]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.56:157][703]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.56:185][704]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.56:215][705]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.56:250][706]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.56:279][707]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.56:308][708]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.56:398][709]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.56:446][710]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.56:502][711]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.56:538][712]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.56:562][713]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.56:584][714]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.56:608][715]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.56:626][716]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.56:647][717]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.56:666][718]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.56:687][719]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.56:706][720]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.56:728][721]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.56:748][722]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.56:768][723]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.56:789][724]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.56:811][725]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.56:829][726]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.56:848][727]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.56:865][728]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.56:975][733]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.57:016][734]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.57:071][735]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.57:092][736]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.57:114][737]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.57:140][738]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.57:162][739]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.57:185][740]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.57:210][741]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.57:234][742]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.57:262][743]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.57:286][744]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.57:308][745]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.57:326][746]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.57:346][747]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.57:423][750]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.57:443][751]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.57:461][752]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.57:487][753]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.57:507][754]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.57:528][755]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.57:621][759]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.57:635][760]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.57:657][761]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.57:676][762]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.57:696][763]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.57:724][764]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.57:795][768]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.57:835][769]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.57:852][770]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.57:879][771]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.57:908][772]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.57:968][774]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.58:031][777]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.58:052][778]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.58:149][783]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.58:193][785]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.58:214][786]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.58:256][788]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.58:280][789]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.58:309][790]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.58:344][791]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.58:380][792]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.58:408][793]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.58:435][794]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.58:493][796]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.58:519][797]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.58:552][798]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.58:586][799]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.58:618][800]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.58:649][801]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.58:674][802]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.58:696][803]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.58:717][804]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.58:737][805]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.58:758][806]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.58:802][808]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.58:867][811]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.58:896][812]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.58:936][813]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.58:971][814]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.59:003][815]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.59:031][816]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.59:054][817]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.59:076][818]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.59:099][819]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.59:207][823]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.59:229][824]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.59:251][825]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.59:272][826]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.59:309][827]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.59:370][830]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.59:391][831]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.59:431][833]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.59:448][834]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.59:470][835]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.59:557][839]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.59:581][840]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.59:603][841]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.59:626][842]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.59:651][843]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.59:679][844]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.59:712][845]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.59:743][846]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.59:775][847]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.59:801][848]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.59:826][849]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.59:851][850]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.59:951][855]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.59:977][856]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.06.59:997][857]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.00:022][858]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.00:043][859]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.00:083][861]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.00:144][864]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.00:240][869]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.00:260][870]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.00:278][871]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.00:300][872]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.00:358][875]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.00:418][878]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.00:441][879]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.00:461][880]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.00:483][881]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.00:508][882]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.00:554][884]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.00:575][885]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.00:600][886]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.00:621][887]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.00:641][888]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.00:683][890]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.00:753][893]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.00:786][894]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.00:818][895]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.00:846][896]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.00:880][897]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.00:905][898]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.00:937][899]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.00:965][900]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.00:995][901]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.01:028][902]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.01:058][903]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.01:081][904]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.01:104][905]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.01:127][906]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.01:147][907]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.01:166][908]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.01:190][909]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.01:215][910]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.01:259][912]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.01:319][915]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.01:340][916]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.01:408][919]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.01:427][920]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.01:449][921]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.01:511][924]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.01:551][926]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.01:570][927]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.01:593][928]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.01:614][929]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.01:655][931]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.01:741][934]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.01:796][936]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.01:831][937]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.01:858][938]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.01:882][939]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.01:924][940]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.01:974][941]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.02:016][942]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.02:052][943]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.02:083][944]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.02:110][945]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.02:142][946]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.02:189][947]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.02:229][948]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.02:258][949]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.02:289][950]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.02:320][951]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.02:353][952]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.02:387][953]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.02:416][954]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.02:441][955]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.02:489][956]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.02:515][957]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.02:537][958]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.02:578][959]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalHouse)
+[2018.09.12-12.07.02:607][959]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.02:655][960]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.02:677][961]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.02:695][962]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.02:716][963]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.02:733][964]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.02:751][965]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.02:782][966]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.02:801][967]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.02:822][968]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.02:857][969]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.02:879][970]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.02:961][975]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.03:012][977]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.03:029][978]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.03:043][979]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.03:060][980]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.03:088][982]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.03:257][994]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.03:273][995]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.03:303][996]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.03:321][997]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.03:339][998]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.03:450][  6]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.03:479][  8]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.03:542][ 12]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.03:585][ 15]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.03:614][ 17]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.03:655][ 20]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.03:700][ 23]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.03:812][ 31]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.03:854][ 33]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-12.07.03:855][ 33]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.03:898][ 36]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.03:914][ 37]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.03:996][ 42]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.04:014][ 43]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.04:048][ 45]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.04:133][ 50]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.04:148][ 51]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.04:205][ 55]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.04:293][ 61]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.04:338][ 63]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.04:379][ 66]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.04:406][ 67]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.04:447][ 69]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.04:469][ 70]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.04:510][ 71]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.04:541][ 72]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.04:562][ 73]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.04:604][ 75]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.04:625][ 76]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.04:645][ 77]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.04:662][ 78]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.04:682][ 79]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor: 'C:/Program Files/Epic Games/UE_4.20/Engine/Content/Sequencer/Editor' is outside repository
+[2018.09.12-12.07.12:069][592]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalHouse)
+[2018.09.12-12.07.16:230][847]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-12.07.28:669][593]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-12.07.33:660][870]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalHouse2)
+[2018.09.12-12.07.34:975][936]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalFlat5)
+[2018.09.12-12.07.35:707][974]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalFlat6)
+[2018.09.12-12.07.36:406][  9]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalFlat7)
+[2018.09.12-12.07.38:160][115]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalHouse7)
+[2018.09.12-12.07.39:045][163]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalBuilding2)
+[2018.09.12-12.07.39:790][203]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalFlat3)
+[2018.09.12-12.07.40:283][226]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalBuildingBIG)
+[2018.09.12-12.07.40:791][248]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalHouse13)
+[2018.09.12-12.07.41:443][281]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalHouse14)
+[2018.09.12-12.08.48:499][402]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (NormalHouse4)
+[2018.09.12-12.08.48:579][402]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-12.08.51:642][573]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-12.09.02:946][800]LogSlate: Window 'Create Merged Actor' being destroyed
+[2018.09.12-12.09.02:954][800]LogSlate: FSceneViewport::OnFocusLost() reason 3
+[2018.09.12-12.09.03:111][800]LogStaticMesh: Building static mesh City_Industrial...
+[2018.09.12-12.09.03:471][800]LogStaticMesh: Built static mesh [0.36s] /Game/City_Industrial.City_Industrial
+[2018.09.12-12.09.03:661][800]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.09.12-12.09.06:782][997]LogSlate: Window 'Merge Actors' being destroyed
+[2018.09.12-12.09.06:787][997]LogSlate: Window 'Merge Actors' being destroyed
+[2018.09.12-12.09.07:818][ 80]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (NormalHouse)
+[2018.09.12-12.09.08:605][127]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (City_Industrial)
+[2018.09.12-12.09.11:042][272]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-12.09.20:843][843]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-12.09.43:027][232]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-12.09.44:790][321]LogEditorViewport: Clicking on Actor (LMB): Brush (Brush)
+[2018.09.12-12.09.51:690][683]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-12.10.25:476][ 67]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-12.11.36:215][912]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-12.12.23:822][699]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.09.12-12.13.04:416][591]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevSeq_6" FILE="../../../../../../Users/Bogdan/Documents/Unreal Projects/OurGameBP/Content/LevSeq_6.uasset" SILENT=true
+[2018.09.12-12.13.05:041][591]LogSavePackage: Moving '../../../../../../Users/Bogdan/Documents/Unreal Projects/OurGameBP/Saved/LevSeq_6E6FC42A346EA2C2DEF44A7B42AA02816.tmp' to '../../../../../../Users/Bogdan/Documents/Unreal Projects/OurGameBP/Content/LevSeq_6.uasset'
+[2018.09.12-12.13.29:866][393]LogSavePackage: Moving '../../../../../../Users/Bogdan/Documents/Unreal Projects/OurGameBP/Saved/Mapa1_Auto1B0E5C5E44497E3154F84D39609363052.tmp' to '../../../../../../Users/Bogdan/Documents/Unreal Projects/OurGameBP/Saved/Autosaves/Game/Maps/Mapa1_Auto1.umap'
+[2018.09.12-12.13.29:882][393]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Mapa1' took 0.685
+[2018.09.12-12.13.29:882][393]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.685
+[2018.09.12-12.13.29:915][393]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Igra/INTRO/frontend-large_Mat] ([1] browsable assets)...
+[2018.09.12-12.13.29:964][393]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Igra/INTRO/frontend-large_Mat.frontend-large_Mat]
+[2018.09.12-12.13.29:964][393]OBJ SavePackage: Finished generating thumbnails for package [/Game/Igra/INTRO/frontend-large_Mat]
+[2018.09.12-12.13.30:013][393]LogSavePackage: Moving '../../../../../../Users/Bogdan/Documents/Unreal Projects/OurGameBP/Saved/frontend-large_Mat_Auto13058934B4AF1B5E0A8D68FB63CFF087B.tmp' to '../../../../../../Users/Bogdan/Documents/Unreal Projects/OurGameBP/Saved/Autosaves/Game/Igra/INTRO/frontend-large_Mat_Auto1.uasset'
+[2018.09.12-12.13.30:016][393]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/City_Industrial] ([1] browsable assets)...
+[2018.09.12-12.13.30:059][393]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/City_Industrial.City_Industrial]
+[2018.09.12-12.13.30:059][393]OBJ SavePackage: Finished generating thumbnails for package [/Game/City_Industrial]
+[2018.09.12-12.13.30:096][393]LogSavePackage: Moving '../../../../../../Users/Bogdan/Documents/Unreal Projects/OurGameBP/Saved/City_Industrial_Auto114E383C74597F8E88205A18E936DA4D0.tmp' to '../../../../../../Users/Bogdan/Documents/Unreal Projects/OurGameBP/Saved/Autosaves/Game/City_Industrial_Auto1.uasset'
+[2018.09.12-12.13.30:100][393]LogFileHelpers: Auto-saving content packages took 0.217
+[2018.09.12-12.18.45:080][ 18]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevSeq_6" FILE="../../../../../../Users/Bogdan/Documents/Unreal Projects/OurGameBP/Content/LevSeq_6.uasset" SILENT=true
+[2018.09.12-12.18.45:588][ 18]LogSavePackage: Moving '../../../../../../Users/Bogdan/Documents/Unreal Projects/OurGameBP/Saved/LevSeq_64DB1A9294EFBF484018736AECD73F429.tmp' to '../../../../../../Users/Bogdan/Documents/Unreal Projects/OurGameBP/Content/LevSeq_6.uasset'
+[2018.09.12-14.04.32:591][ 96]LogSlate: Window 'Save Content' being destroyed
+[2018.09.12-14.04.33:095][ 96]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/City_Industrial" FILE="../../../../../../Users/Bogdan/Documents/Unreal Projects/OurGameBP/Content/City_Industrial.uasset" SILENT=true
+[2018.09.12-14.04.33:135][ 96]LogSavePackage: Moving '../../../../../../Users/Bogdan/Documents/Unreal Projects/OurGameBP/Saved/City_Industrial2D8950754087B88ADB9474A9BC2C954F.tmp' to '../../../../../../Users/Bogdan/Documents/Unreal Projects/OurGameBP/Content/City_Industrial.uasset'
+[2018.09.12-14.04.33:535][ 96]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Igra/INTRO/frontend-large_Mat" FILE="../../../../../../Users/Bogdan/Documents/Unreal Projects/OurGameBP/Content/Igra/INTRO/frontend-large_Mat.uasset" SILENT=true
+[2018.09.12-14.04.33:557][ 96]LogSavePackage: Moving '../../../../../../Users/Bogdan/Documents/Unreal Projects/OurGameBP/Saved/frontend-large_Mat417DBCC543199D6F17E4E5BD7A122898.tmp' to '../../../../../../Users/Bogdan/Documents/Unreal Projects/OurGameBP/Content/Igra/INTRO/frontend-large_Mat.uasset'
+[2018.09.12-14.04.38:379][ 96]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Mapa1" FILE="../../../../../../Users/Bogdan/Documents/Unreal Projects/OurGameBP/Content/Maps/Mapa1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.09.12-14.04.38:986][ 96]LogSavePackage: Moving '../../../../../../Users/Bogdan/Documents/Unreal Projects/OurGameBP/Saved/Mapa13559195940F492990BFFD79D9EB00FAD.tmp' to '../../../../../../Users/Bogdan/Documents/Unreal Projects/OurGameBP/Content/Maps/Mapa1.umap'
+[2018.09.12-14.04.39:158][ 96]LogFileHelpers: Saving map 'Mapa1' took 5.247
+[2018.09.12-14.04.39:729][ 96]LogSlate: Window 'OurGameBP - Unreal Editor' being destroyed
+[2018.09.12-14.04.40:142][ 97]Cmd: QUIT_EDITOR
+[2018.09.12-14.04.40:206][ 97]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.09.12-14.04.40:245][ 97]LogExit: Preparing to exit.
+[2018.09.12-14.04.40:779][ 97]LogExit: Editor shut down
+[2018.09.12-14.04.40:783][ 97]LogExit: Transaction tracking system shut down
+[2018.09.12-14.04.41:143][ 97]LogExit: Object subsystem successfully closed.
+[2018.09.12-14.04.41:183][ 97]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.09.12-14.04.41:197][ 97]LogD3D11RHI: Shutdown
+[2018.09.12-14.04.41:197][ 97]LogD3D11RHI: CleanupD3DDevice
+[2018.09.12-14.04.41:224][ 97]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.09.12-14.04.41:258][ 97]LogModuleManager: Shutting down and abandoning module MeshBuilder (614)
+[2018.09.12-14.04.41:258][ 97]LogModuleManager: Shutting down and abandoning module SequencerWidgets (612)
+[2018.09.12-14.04.41:258][ 97]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (610)
+[2018.09.12-14.04.41:258][ 97]LogModuleManager: Shutting down and abandoning module SceneOutliner (608)
+[2018.09.12-14.04.41:258][ 97]LogModuleManager: Shutting down and abandoning module AddContentDialog (606)
+[2018.09.12-14.04.41:267][ 97]LogModuleManager: Shutting down and abandoning module WidgetCarousel (605)
+[2018.09.12-14.04.41:268][ 97]LogModuleManager: Shutting down and abandoning module EditorWidgets (602)
+[2018.09.12-14.04.41:268][ 97]LogModuleManager: Shutting down and abandoning module CollectionManager (600)
+[2018.09.12-14.04.41:268][ 97]LogModuleManager: Shutting down and abandoning module StatsViewer (598)
+[2018.09.12-14.04.41:268][ 97]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2018.09.12-14.04.41:268][ 97]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2018.09.12-14.04.41:268][ 97]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2018.09.12-14.04.41:268][ 97]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2018.09.12-14.04.41:268][ 97]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2018.09.12-14.04.41:268][ 97]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2018.09.12-14.04.41:268][ 97]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2018.09.12-14.04.41:268][ 97]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2018.09.12-14.04.41:268][ 97]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2018.09.12-14.04.41:268][ 97]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2018.09.12-14.04.41:268][ 97]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2018.09.12-14.04.41:268][ 97]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2018.09.12-14.04.41:268][ 97]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2018.09.12-14.04.41:268][ 97]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2018.09.12-14.04.41:268][ 97]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2018.09.12-14.04.41:269][ 97]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2018.09.12-14.04.41:269][ 97]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2018.09.12-14.04.41:269][ 97]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2018.09.12-14.04.41:269][ 97]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2018.09.12-14.04.41:269][ 97]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2018.09.12-14.04.41:269][ 97]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2018.09.12-14.04.41:269][ 97]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2018.09.12-14.04.41:269][ 97]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2018.09.12-14.04.41:269][ 97]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2018.09.12-14.04.41:269][ 97]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2018.09.12-14.04.41:269][ 97]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2018.09.12-14.04.41:269][ 97]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2018.09.12-14.04.41:269][ 97]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2018.09.12-14.04.41:269][ 97]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2018.09.12-14.04.41:269][ 97]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2018.09.12-14.04.41:269][ 97]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2018.09.12-14.04.41:269][ 97]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2018.09.12-14.04.41:269][ 97]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2018.09.12-14.04.41:269][ 97]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2018.09.12-14.04.41:269][ 97]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2018.09.12-14.04.41:269][ 97]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2018.09.12-14.04.41:269][ 97]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2018.09.12-14.04.41:269][ 97]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2018.09.12-14.04.41:269][ 97]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2018.09.12-14.04.41:269][ 97]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2018.09.12-14.04.41:269][ 97]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2018.09.12-14.04.41:269][ 97]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2018.09.12-14.04.41:269][ 97]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2018.09.12-14.04.41:269][ 97]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2018.09.12-14.04.41:269][ 97]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2018.09.12-14.04.43:145][ 97]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2018.09.12-14.04.43:146][ 97]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2018.09.12-14.04.43:146][ 97]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2018.09.12-14.04.43:146][ 97]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2018.09.12-14.04.43:146][ 97]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2018.09.12-14.04.43:146][ 97]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2018.09.12-14.04.44:967][ 97]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2018.09.12-14.04.44:967][ 97]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2018.09.12-14.04.44:967][ 97]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2018.09.12-14.04.44:967][ 97]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2018.09.12-14.04.44:967][ 97]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2018.09.12-14.04.44:967][ 97]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2018.09.12-14.04.44:967][ 97]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2018.09.12-14.04.44:967][ 97]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2018.09.12-14.04.44:967][ 97]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2018.09.12-14.04.44:967][ 97]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2018.09.12-14.04.44:967][ 97]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2018.09.12-14.04.44:967][ 97]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2018.09.12-14.04.44:967][ 97]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2018.09.12-14.04.44:967][ 97]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2018.09.12-14.04.44:967][ 97]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2018.09.12-14.04.44:967][ 97]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2018.09.12-14.04.45:023][ 97]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2018.09.12-14.04.45:023][ 97]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2018.09.12-14.04.45:023][ 97]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2018.09.12-14.04.45:023][ 97]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2018.09.12-14.04.45:023][ 97]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2018.09.12-14.04.45:024][ 97]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2018.09.12-14.04.45:025][ 97]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2018.09.12-14.04.45:025][ 97]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2018.09.12-14.04.45:025][ 97]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2018.09.12-14.04.45:025][ 97]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2018.09.12-14.04.45:027][ 97]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2018.09.12-14.04.45:028][ 97]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2018.09.12-14.04.45:028][ 97]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2018.09.12-14.04.45:028][ 97]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2018.09.12-14.04.45:028][ 97]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2018.09.12-14.04.45:028][ 97]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2018.09.12-14.04.45:028][ 97]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2018.09.12-14.04.45:028][ 97]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2018.09.12-14.04.45:028][ 97]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2018.09.12-14.04.45:028][ 97]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2018.09.12-14.04.45:028][ 97]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2018.09.12-14.04.45:028][ 97]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2018.09.12-14.04.45:028][ 97]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2018.09.12-14.04.45:028][ 97]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2018.09.12-14.04.45:028][ 97]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2018.09.12-14.04.45:028][ 97]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2018.09.12-14.04.45:028][ 97]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2018.09.12-14.04.45:028][ 97]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2018.09.12-14.04.45:028][ 97]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2018.09.12-14.04.45:028][ 97]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2018.09.12-14.04.45:028][ 97]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2018.09.12-14.04.45:028][ 97]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2018.09.12-14.04.45:066][ 97]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2018.09.12-14.04.45:066][ 97]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2018.09.12-14.04.45:066][ 97]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2018.09.12-14.04.45:066][ 97]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2018.09.12-14.04.45:066][ 97]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2018.09.12-14.04.45:066][ 97]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2018.09.12-14.04.45:066][ 97]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2018.09.12-14.04.45:066][ 97]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2018.09.12-14.04.45:066][ 97]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2018.09.12-14.04.45:066][ 97]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2018.09.12-14.04.45:066][ 97]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2018.09.12-14.04.45:066][ 97]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2018.09.12-14.04.45:066][ 97]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2018.09.12-14.04.45:066][ 97]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2018.09.12-14.04.45:066][ 97]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2018.09.12-14.04.45:066][ 97]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2018.09.12-14.04.45:066][ 97]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2018.09.12-14.04.45:066][ 97]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2018.09.12-14.04.45:070][ 97]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2018.09.12-14.04.45:070][ 97]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2018.09.12-14.04.45:070][ 97]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2018.09.12-14.04.45:070][ 97]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2018.09.12-14.04.45:070][ 97]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2018.09.12-14.04.45:071][ 97]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2018.09.12-14.04.45:071][ 97]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2018.09.12-14.04.45:071][ 97]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2018.09.12-14.04.45:071][ 97]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2018.09.12-14.04.45:071][ 97]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2018.09.12-14.04.45:071][ 97]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2018.09.12-14.04.45:071][ 97]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2018.09.12-14.04.45:071][ 97]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2018.09.12-14.04.45:071][ 97]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2018.09.12-14.04.45:071][ 97]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2018.09.12-14.04.45:071][ 97]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2018.09.12-14.04.45:071][ 97]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2018.09.12-14.04.45:072][ 97]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2018.09.12-14.04.45:072][ 97]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2018.09.12-14.04.45:072][ 97]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2018.09.12-14.04.45:072][ 97]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2018.09.12-14.04.45:072][ 97]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2018.09.12-14.04.45:072][ 97]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2018.09.12-14.04.45:072][ 97]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2018.09.12-14.04.45:072][ 97]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2018.09.12-14.04.45:072][ 97]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2018.09.12-14.04.45:072][ 97]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2018.09.12-14.04.45:072][ 97]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2018.09.12-14.04.45:073][ 97]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2018.09.12-14.04.45:073][ 97]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2018.09.12-14.04.45:073][ 97]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2018.09.12-14.04.45:073][ 97]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2018.09.12-14.04.45:073][ 97]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2018.09.12-14.04.45:073][ 97]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2018.09.12-14.04.45:073][ 97]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2018.09.12-14.04.45:073][ 97]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2018.09.12-14.04.45:073][ 97]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2018.09.12-14.04.45:073][ 97]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2018.09.12-14.04.45:073][ 97]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2018.09.12-14.04.45:073][ 97]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2018.09.12-14.04.45:073][ 97]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2018.09.12-14.04.45:174][ 97]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2018.09.12-14.04.45:274][ 97]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2018.09.12-14.04.45:274][ 97]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2018.09.12-14.04.45:275][ 97]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2018.09.12-14.04.45:276][ 97]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2018.09.12-14.04.45:276][ 97]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2018.09.12-14.04.45:276][ 97]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2018.09.12-14.04.45:276][ 97]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2018.09.12-14.04.45:279][ 97]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2018.09.12-14.04.45:279][ 97]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2018.09.12-14.04.45:279][ 97]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2018.09.12-14.04.45:279][ 97]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2018.09.12-14.04.45:280][ 97]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2018.09.12-14.04.45:288][ 97]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2018.09.12-14.04.45:288][ 97]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2018.09.12-14.04.45:288][ 97]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2018.09.12-14.04.45:288][ 97]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2018.09.12-14.04.45:288][ 97]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2018.09.12-14.04.45:288][ 97]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2018.09.12-14.04.45:290][ 97]LogModuleManager: Shutting down and abandoning module Media (243)
+[2018.09.12-14.04.45:296][ 97]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2018.09.12-14.04.45:296][ 97]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2018.09.12-14.04.45:296][ 97]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2018.09.12-14.04.45:296][ 97]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2018.09.12-14.04.45:297][ 97]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2018.09.12-14.04.45:297][ 97]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2018.09.12-14.04.45:297][ 97]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2018.09.12-14.04.45:297][ 97]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2018.09.12-14.04.45:297][ 97]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2018.09.12-14.04.45:297][ 97]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2018.09.12-14.04.45:297][ 97]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2018.09.12-14.04.45:297][ 97]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2018.09.12-14.04.45:297][ 97]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2018.09.12-14.04.45:297][ 97]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2018.09.12-14.04.45:297][ 97]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2018.09.12-14.04.45:297][ 97]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2018.09.12-14.04.45:297][ 97]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2018.09.12-14.04.45:297][ 97]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2018.09.12-14.04.45:297][ 97]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2018.09.12-14.04.45:297][ 97]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2018.09.12-14.04.45:301][ 97]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2018.09.12-14.04.45:301][ 97]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2018.09.12-14.04.45:301][ 97]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2018.09.12-14.04.45:301][ 97]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2018.09.12-14.04.45:301][ 97]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2018.09.12-14.04.45:301][ 97]LogModuleManager: Shutting down and abandoning module Core (188)
+[2018.09.12-14.04.45:301][ 97]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2018.09.12-14.04.45:301][ 97]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2018.09.12-14.04.45:301][ 97]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2018.09.12-14.04.45:301][ 97]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2018.09.12-14.04.45:301][ 97]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2018.09.12-14.04.45:301][ 97]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2018.09.12-14.04.45:301][ 97]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2018.09.12-14.04.45:301][ 97]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2018.09.12-14.04.45:301][ 97]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2018.09.12-14.04.45:301][ 97]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2018.09.12-14.04.45:301][ 97]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2018.09.12-14.04.45:302][ 97]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2018.09.12-14.04.45:304][ 97]LogDerivedDataCache: Shutdown
+[2018.09.12-14.04.45:306][ 97]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2018.09.12-14.04.45:307][ 97]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2018.09.12-14.04.45:309][ 97]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2018.09.12-14.04.45:309][ 97]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2018.09.12-14.04.45:309][ 97]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2018.09.12-14.04.45:309][ 97]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2018.09.12-14.04.45:309][ 97]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2018.09.12-14.04.45:309][ 97]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2018.09.12-14.04.45:310][ 97]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2018.09.12-14.04.45:310][ 97]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2018.09.12-14.04.45:310][ 97]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2018.09.12-14.04.45:310][ 97]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2018.09.12-14.04.45:310][ 97]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2018.09.12-14.04.45:310][ 97]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2018.09.12-14.04.45:310][ 97]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2018.09.12-14.04.45:310][ 97]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2018.09.12-14.04.45:311][ 97]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2018.09.12-14.04.45:311][ 97]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2018.09.12-14.04.45:311][ 97]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2018.09.12-14.04.45:311][ 97]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2018.09.12-14.04.45:311][ 97]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2018.09.12-14.04.45:311][ 97]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2018.09.12-14.04.45:311][ 97]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2018.09.12-14.04.45:324][ 97]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2018.09.12-14.04.45:324][ 97]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2018.09.12-14.04.45:333][ 97]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2018.09.12-14.04.45:334][ 97]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2018.09.12-14.04.45:380][ 97]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2018.09.12-14.04.45:380][ 97]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2018.09.12-14.04.45:380][ 97]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2018.09.12-14.04.45:380][ 97]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2018.09.12-14.04.45:380][ 97]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2018.09.12-14.04.45:380][ 97]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2018.09.12-14.04.45:380][ 97]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2018.09.12-14.04.45:380][ 97]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2018.09.12-14.04.45:380][ 97]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2018.09.12-14.04.45:380][ 97]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2018.09.12-14.04.45:381][ 97]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2018.09.12-14.04.45:381][ 97]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2018.09.12-14.04.45:381][ 97]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2018.09.12-14.04.45:381][ 97]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2018.09.12-14.04.45:381][ 97]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2018.09.12-14.04.45:381][ 97]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2018.09.12-14.04.45:381][ 97]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2018.09.12-14.04.45:381][ 97]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2018.09.12-14.04.45:382][ 97]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2018.09.12-14.04.45:382][ 97]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2018.09.12-14.04.45:394][ 97]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2018.09.12-14.04.45:394][ 97]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.09.12-14.04.45:394][ 97]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB97F81B5-4BBC-0242-1AD7-D286D0BF11FE%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.2-4302132%2B%2B%2BUE4%2BRelease-4.20&UserID=d9bfd1434c591597c1be5d8efff3d149%7Cc2c2ee9a13084a7da39cbb92193f0f01%7Cf443ed07-ffa7-4ed5-8b20-8cda05e5273d&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.09.12-14.04.45:428][ 97]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2018.09.12-14.04.45:429][ 97]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2018.09.12-14.04.45:429][ 97]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2018.09.12-14.04.45:429][ 97]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2018.09.12-14.04.45:429][ 97]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2018.09.12-14.04.45:429][ 97]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2018.09.12-14.04.45:430][ 97]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2018.09.12-14.04.45:430][ 97]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2018.09.12-14.04.45:430][ 97]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2018.09.12-14.04.45:430][ 97]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2018.09.12-14.04.45:430][ 97]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.09.12-14.04.45:430][ 97]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2018.09.12-14.04.45:430][ 97]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.09.12-14.04.45:430][ 97]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.09.12-14.04.45:430][ 97]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.09.12-14.04.45:430][ 97]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.09.12-14.04.45:431][ 97]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.09.12-14.04.45:431][ 97]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.09.12-14.04.45:431][ 97]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.09.12-14.04.45:432][ 97]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.09.12-14.04.45:432][ 97]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.09.12-14.04.45:432][ 97]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.09.12-14.04.45:432][ 97]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.09.12-14.04.45:432][ 97]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.09.12-14.04.45:432][ 97]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.09.12-14.04.45:432][ 97]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.09.12-14.04.45:432][ 97]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.09.12-14.04.45:432][ 97]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.09.12-14.04.45:432][ 97]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.09.12-14.04.45:432][ 97]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.09.12-14.04.45:441][ 97]LogExit: Exiting.
+[2018.09.12-14.04.45:471][ 97]Log file closed, 09/12/18 16:04:45
